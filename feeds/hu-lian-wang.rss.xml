@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 24 Nov 2014 16:00:11 +0800</lastBuildDate><item><title>头戴 Oculus Rift，在虚拟现实里查看股票是什么体验？（视频更新中）</title><link>/post/2014-11-24-tou-dai-oculus-riftzai-xu-ni-xian-shi-li-cha-kan-gu-piao-shi-shi-yao-ti-yan-shi-pin-geng-xin-zhong/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp（视频更新中）Fidelity（富达国际投资）旗下的实验室一贯在投资科技领域坚持探索和创新，比如：1998年做出双向寻呼机，来支持移动投资；头戴 Oculus Rift，在虚拟现实里查看股票是什么体验？2010年上线富达投资的 iPhone 版应用；2013年，开始琢磨 Google Glass 上的投资体验。（视频更新中）近期它又推出了一款以虚拟现实为技术基础的股票投资产品：StockCity。用户只需要戴上 Oculus Rift 显示器，便能进入虚拟情景，查看股票行情——股票看上去都像是虚拟的高楼，此起彼伏、共同形成了股势图——每幢楼对应不同的一只股票，楼高、色彩则表示单支股票的情势。该产品有两种版本：应用，或 Web 版——只需要打开浏览器。“StockCity 同虚拟现实设备 Oculus Rift 相结合，将股票投资者成天面对的枯燥数据化为城市中形象直观的高楼大厦。股票走势、涨幅不再用枯燥死板的百分比数字表示，而是通过颜色、形状展现。”我不知道，因为我还没有用过——如果有朋友能提供试用的机会，请抓起手边的电话加我微信吧～：欢迎投身于 FinTech 的同志加我的微信 xtw1009听上去很有意思，但有多有用呢？&lt;/h4&gt;&lt;/div&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 24 Nov 2014 17:00:12 +0800</lastBuildDate><item><title>百度披露智能自行车Dubike细节：用户健康数据+LBS+自行车上的社交</title><link>/post/2014-11-24-bai-du-pi-lu-zhi-neng-zi-xing-che-dubikexi-jie-yong-hu-jian-kang-shu-ju-lbszi-xing-che-shang-de-she-jiao/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp张向东离职做智能自行车百度披露智能自行车Dubike细节：用户健康数据+LBS+自行车上的社交以来，智能自行车领域开始收到业内的大量关注。作为一台智能自行车，Dubike车身搭载了踏频传感器、踏压传感器、心率传感器等传感器，还有拥有车把一体化导航面板、自发电花鼓等装置。：通过心率、踏率、速度、坐压等传感器多维采集数据，实时或在骑行后通过蓝牙同步给手机App进行健康分析，结合百度大脑的分析能力，为用户提供骑行建议。：通过自发电花鼓将骑行的动能转换为电能。：车把一体化导航灯，骑行时脱离手机实现导航 。：内嵌GPS定位卡，实时定位dubike位置，防止丢失。已经开始研发在10月末的时候，百度的智能自行车 OS：为骑行者推荐骑行线路，逐渐建立起社交网络。，项目百度 IDL（深度学习实验室）牵头推进，计划将导航、社交、健康监控、众包骑行地图、智能推荐路线及健身计划等功能集成，然后通过平台化、接口化的方式面向所有自行车厂商开放。不过也有业内人士担心Dubike车身过重、城市山地定位不清、用户无法直观监测数据等缺陷会影响Dubike未来的推广。目前Dubike还未正式上线，主页也还正在收集意见和需求。此前有消息传出Dubike的正式上线会在年底。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;张向东离职做智能自行车&lt;/p&gt;
+&lt;p&gt;以来，智能自行车领域开始收到业内的大量关注。这时候，公众才发现，小米、乐视还有传统自行车行业的美利达、捷安特都在做，甚至是联想都开始动手了。近日，百度率先发布了旗下&lt;/p&gt;
+&lt;p&gt;Dubike&lt;/p&gt;
+&lt;p&gt;的具体细节。&lt;/p&gt;
+&lt;p&gt;作为一台智能自行车，Dubike车身搭载了踏频传感器、踏压传感器、心率传感器等传感器，还有拥有车把一体化导航面板、自发电花鼓等装置。&lt;/p&gt;
+&lt;p&gt;Dubike的主要功能有：&lt;/p&gt;
+&lt;p&gt;：通过心率、踏率、速度、坐压等传感器多维采集数据，实时或在骑行后通过蓝牙同步给手机App进行健康分析，结合百度大脑的分析能力，为用户提供骑行建议。&lt;/p&gt;
+&lt;p&gt;：通过自发电花鼓将骑行的动能转换为电能。&lt;/p&gt;
+&lt;p&gt;：车把一体化导航灯，骑行时脱离手机实现导航 。&lt;/p&gt;
+&lt;p&gt;：内嵌GPS定位卡，实时定位dubike位置，防止丢失。&lt;/p&gt;
+&lt;p&gt;：为骑行者推荐骑行线路，逐渐建立起社交网络。&lt;/p&gt;
+&lt;p&gt;在10月末的时候，百度的智能自行车 OS&lt;/p&gt;
+&lt;p&gt;已经开始研发&lt;/p&gt;
+&lt;p&gt;，项目百度 IDL（深度学习实验室）牵头推进，计划将导航、社交、健康监控、众包骑行地图、智能推荐路线及健身计划等功能集成，然后通过平台化、接口化的方式面向所有自行车厂商开放。&lt;/p&gt;
+&lt;p&gt;不过也有业内人士担心Dubike车身过重、城市山地定位不清、用户无法直观监测数据等缺陷会影响Dubike未来的推广。目前Dubike还未正式上线，主页也还正在收集意见和需求。此前有消息传出Dubike的正式上线会在年底。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Mon, 24 Nov 2014 17:00:12 +0800</pubDate><guid>tag:,2014-11-24:post/2014-11-24-bai-du-pi-lu-zhi-neng-zi-xing-che-dubikexi-jie-yong-hu-jian-kang-shu-ju-lbszi-xing-che-shang-de-she-jiao/</guid><category>cn-news</category></item><item><title>头戴 Oculus Rift，在虚拟现实里查看股票是什么体验？（视频更新中）</title><link>/post/2014-11-24-tou-dai-oculus-riftzai-xu-ni-xian-shi-li-cha-kan-gu-piao-shi-shi-yao-ti-yan-shi-pin-geng-xin-zhong/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp（视频更新中）Fidelity（富达国际投资）旗下的实验室一贯在投资科技领域坚持探索和创新，比如：1998年做出双向寻呼机，来支持移动投资；头戴 Oculus Rift，在虚拟现实里查看股票是什么体验？2010年上线富达投资的 iPhone 版应用；2013年，开始琢磨 Google Glass 上的投资体验。（视频更新中）近期它又推出了一款以虚拟现实为技术基础的股票投资产品：StockCity。用户只需要戴上 Oculus Rift 显示器，便能进入虚拟情景，查看股票行情——股票看上去都像是虚拟的高楼，此起彼伏、共同形成了股势图——每幢楼对应不同的一只股票，楼高、色彩则表示单支股票的情势。该产品有两种版本：应用，或 Web 版——只需要打开浏览器。“StockCity 同虚拟现实设备 Oculus Rift 相结合，将股票投资者成天面对的枯燥数据化为城市中形象直观的高楼大厦。股票走势、涨幅不再用枯燥死板的百分比数字表示，而是通过颜色、形状展现。”我不知道，因为我还没有用过——如果有朋友能提供试用的机会，请抓起手边的电话加我微信吧～：欢迎投身于 FinTech 的同志加我的微信 xtw1009听上去很有意思，但有多有用呢？&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;Fidelity（富达国际投资）旗下的实验室一贯在投资科技领域坚持探索和创新，比如：1998年做出双向寻呼机，来支持移动投资；2010年上线富达投资的 iPhone 版应用；2013年，开始琢磨 Google Glass 上的投资体验。&lt;/p&gt;
 &lt;p&gt;近期它又推出了一款以虚拟现实为技术基础的股票投资产品：StockCity。&lt;/p&gt;
