@@ -1,5 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>闻客</title><link href="/" rel="alternate"></link><link href="/feeds/36kr.atom.xml" rel="self"></link><id>/</id><updated>2014-11-25T22:00:12+08:00</updated><entry><title>36氪每日投融资笔记（11月25日）：位置社交、医疗科技、同城物流、医美社区</title><link href="/post/2014-11-25-36ke-mei-ri-tou-rong-zi-bi-ji-11yue-25ri-wei-zhi-she-jiao-yi-liao-ke-ji-tong-cheng-wu-liu-yi-mei-she-qu/" rel="alternate"></link><updated>2014-11-25T22:00:12+08:00</updated><author><name>36kr</name></author><id>tag:,2014-11-25:post/2014-11-25-36ke-mei-ri-tou-rong-zi-bi-ji-11yue-25ri-wei-zhi-she-jiao-yi-liao-ke-ji-tong-cheng-wu-liu-yi-mei-she-qu/</id><summary type="html">&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp一、 LBS匿名社交应用Yik Yak获红杉资本领投6200万美元Yik Yak36氪每日投融资笔记（11月25日）：位置社交、医疗科技、同城物流、医美社区Yik Yak此前曝出获得7500万美元融资，今天放出的消息则是6200万美元融资，由红杉资本领投。二、医疗科技公司爱博诺德获美国富达6250万人民币投资成立仅一年时间，Yik Yak估值已达数亿美金。是一家位于北京中关村的医疗科技有限公司，其第一代产品可折叠疏水性非球面人工晶状体“普诺明”于2014年7月获得CFDA批准，是国内首款自主研发的非球面可折叠人工晶体。三、同城货运叫车平台“神盾快运”获数千万人民币天使轮融资四、 获经纬创投数百万美元A轮融资是一个专注于整形美容服务的五、电商软件提供商Bigcommerce获软银5000万美元D轮融资新氧已经完成A轮数百万美元的融资，投资方是经纬创投。是一个支持小企业开设网店的电商平台，成立于2009年，目前向全球55000家零售商提供服务。帮助人们建立和推广小规模在线业务，提供多种工具和数据分析后台帮助用户建立网店，并配备购物车和支付网关等功能。&lt;/h4&gt;&lt;/div&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>闻客</title><link href="/" rel="alternate"></link><link href="/feeds/36kr.atom.xml" rel="self"></link><id>/</id><updated>2014-11-25T23:00:14+08:00</updated><entry><title>UI设计新手？试一试这7条法则（Part 1）</title><link href="/post/2014-11-25-uishe-ji-xin-shou-shi-yi-shi-zhe-7tiao-fa-ze-part-1/" rel="alternate"></link><updated>2014-11-25T23:00:14+08:00</updated><author><name>36kr</name></author><id>tag:,2014-11-25:post/2014-11-25-uishe-ji-xin-shou-shi-yi-shi-zhe-7tiao-fa-ze-part-1/</id><summary type="html">&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp试一试这7条法则（Part 1）增加空白空间光线来自天空善于借鉴优秀的作品（第２部分）法则1：光线来自天空我们来一起看看这些法则。没有按下去的按钮底部边缘更暗，因为没有光线照到那里。按下的按钮未按下的按钮滑动按钮法则2：黑白优先法则3：增加空白空间在行之间留出空间。在各个元素之间留出空间。在各组元素之间留出空间。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;Medium&lt;/p&gt;
+&lt;p&gt;，作者是一位UX（User Experience, 用户体验)设计师，他通过自己学习UI设计的过程，总结出7条实用的法则，为UI设计新手提供了宝贵的经验。文章分为2个部分，这里是第1部分。&lt;/p&gt;
+&lt;p&gt;首先，明确一点，这篇文章并不是为所有人准备的，而是有特定的目标读者：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;想要在开发产品时设计出好看&lt;/span&gt;&lt;span class="n"&gt;UI&lt;/span&gt;&lt;span class="err"&gt;的开发者。&lt;/span&gt;
+
+&lt;span class="err"&gt;想要让自己作品集更出彩的&lt;/span&gt;&lt;span class="n"&gt;UX&lt;/span&gt;&lt;span class="err"&gt;设计师，或者是想要做出更精美的&lt;/span&gt;&lt;span class="n"&gt;UI&lt;/span&gt;&lt;span class="err"&gt;和&lt;/span&gt;&lt;span class="n"&gt;UX&lt;/span&gt;&lt;span class="err"&gt;的设计师。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;如果你是学艺术的学生或者已经是UI设计师了，你可能觉得这篇文章很无聊，而且观点都是错的。没关系，你的批评没错，把这个网页关了，去忙别的事吧。&lt;/p&gt;
+&lt;p&gt;那么从这篇文章中到底能学到什么呢？我曾是一名不懂UI的UX设计师。我非常热爱UX设计，但是后来我发现，做出精美的界面是多么的必要:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;我以前的作品集看起来一团糟，显得我的作品和思考过程很差劲。&lt;/span&gt;
+
+&lt;span class="err"&gt;我做&lt;/span&gt;&lt;span class="n"&gt;UX&lt;/span&gt;&lt;span class="err"&gt;咨询的客户更喜欢有能力呈现作品的人，而不是只会画一堆方块和箭头的人。&lt;/span&gt;
+
+&lt;span class="err"&gt;我能为一些早期的创业公司工作吗？还是一边儿呆着吧。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;我当然也有借口：&lt;/p&gt;
+&lt;p&gt;我没有美术基础，我主修工程专业，所以我做出难看的东西也无可厚非。&lt;/p&gt;
+&lt;p&gt;最终，我还是学了app设计，不断地分析案例，厚着脸皮临摹成功的作品。假设我在1个UI项目上花10个小时的时间，其中只有1个小时是有效的，其它9个小时都是在失败中不断地学习，玩命的在Google、Pinterest或者Dribble上找值得借鉴的东西。&lt;/p&gt;
+&lt;p&gt;下面这些“法则”都是我从失败中总结出来的。&lt;/p&gt;
+&lt;p&gt;所以，我需要提醒新人：我现在擅长UI，主要得益于我经常分析，并不是突然开悟，理解了什么是美，什么是平衡。&lt;/p&gt;
+&lt;p&gt;这篇文章不讲理论，只谈应用。我不会讲什么黄金分割、色彩理论，只有实站中总结出的经验和教训。就好像，柔道源于日本几个世纪以来的尚武精神和哲学理念。上柔道课时，不仅能学到打斗，还会学到很多关于能量、气息与和谐之类的东西。而以色列格斗术（Krav Maga）则完全不同。这种格斗术是纳粹压迫下犹太人发明的。其中根本没有“艺术”，在以色列格斗术的课堂上，你学到就是怎样用一根笔或者本书袭击别人的眼睛。&lt;/p&gt;
+&lt;p&gt;这篇文章就是产品设计领域的以色列格斗术。&lt;/p&gt;
+&lt;p&gt;以下是我要讲的法则：&lt;/p&gt;
+&lt;p&gt;光线来自天空&lt;/p&gt;
+&lt;p&gt;增加空白空间&lt;/p&gt;
+&lt;p&gt;学会在图片上呈现文字（第２部分）&lt;/p&gt;
+&lt;p&gt;做好强调和淡化（第２部分）&lt;/p&gt;
+&lt;p&gt;只用合适的字体（第２部分）&lt;/p&gt;
+&lt;p&gt;善于借鉴优秀的作品（第２部分）&lt;/p&gt;
+&lt;p&gt;我们来一起看看这些法则。&lt;/p&gt;
+&lt;p&gt;法则1：光线来自天空&lt;/p&gt;
+&lt;p&gt;阴影能够告诉人脑我们到底在看什么样的UI元素。&lt;/p&gt;
+&lt;p&gt;这可能是学习UI设计时，&lt;/p&gt;
+&lt;p&gt;最容易忽略却又极为重要的&lt;/p&gt;
+&lt;p&gt;一点了:光线来自天空。光线总是从天空（上方）来的，从下面照上来的光看起来会非常诡异。&lt;/p&gt;
+&lt;p&gt;当光线从天上照下来的时候，物品的上端会偏亮，而下方会出现阴影。上半部分颜色浅一些，而下半部分深一些。&lt;/p&gt;
+&lt;p&gt;从下面打一束光到人脸上是不是看起来很渗人？UI设计也是同理。我们的屏幕是平的，但是我们可以通过一些艺术手法让它看起来是3D的，在每个元素的下方加一些阴影。&lt;/p&gt;
+&lt;p&gt;就拿这个按钮举例，这是一个相对“扁平化”(flat)的按钮，但依然可以看出一些光线变化的细节:&lt;/p&gt;
+&lt;p&gt;没有按下去的按钮底部边缘更暗，因为没有光线照到那里。&lt;/p&gt;
+&lt;p&gt;没有按下去的按钮上半部分比下半部分稍微亮一些。这是在模仿一个略有弧度的表面（见侧视图）。&lt;/p&gt;
+&lt;p&gt;没有按下去的按钮下方有一些细微的阴影，在放大图中看得更清楚。&lt;/p&gt;
+&lt;p&gt;按下去的按钮整体颜色都更暗了，但下半部分的颜色依然比上面深。这是因为按钮在屏幕的平面上，光线不容易照到。也有人说，在现实中，按下去的按钮颜色更深，因为手遮挡住了光线。&lt;/p&gt;
+&lt;p&gt;这么一个简单的按钮就有4种不同的光线变化。实际上，我们可以把这种原则运用到各处。&lt;/p&gt;
+&lt;p&gt;iOS 6有点过时了，但还是学习光线不错的案例。这张图是iOS 6“勿扰模式”和“通知”的设置，看看上面有多少种不同的光线变化。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;控制面板的上边缘有一小块阴影。&lt;/span&gt;
+
+&lt;span class="err"&gt;“开启”滑动槽上部也有阴影。&lt;/span&gt;
+
+&lt;span class="err"&gt;“开启”滑动槽的下半部分，反射了一些光线。&lt;/span&gt;
+
+&lt;span class="err"&gt;按钮是突出的，上边缘较亮，因为是与光源垂直的，接收了大量光线，折射到你的眼睛中。&lt;/span&gt;
+
+&lt;span class="err"&gt;因为光线角度的问题，分割线处出现了阴影。&lt;/span&gt;
+
+&lt;span class="err"&gt;文字输入框&lt;/span&gt;
+
+&lt;span class="err"&gt;按下的按钮&lt;/span&gt;
+
+&lt;span class="err"&gt;单选框（未选择的）&lt;/span&gt;
+
+&lt;span class="err"&gt;未按下的按钮&lt;/span&gt;
+
+&lt;span class="err"&gt;滑动按钮&lt;/span&gt;
+
+&lt;span class="err"&gt;下拉控件&lt;/span&gt;
+
+&lt;span class="err"&gt;选择后的单选按钮&lt;/span&gt;
+
+&lt;span class="err"&gt;弹出消息&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;等等，现在不是追求扁平化的设计吗？&lt;/p&gt;
+&lt;p&gt;iOS 7引发了科技界对于“扁平化设计”(flat design)的追求。也就是说图标是平的，不再模仿实物而外凸或内凹，只有线条和单一颜色的形状。&lt;/p&gt;
+&lt;p&gt;我很喜欢这种干净、简洁的风格，但是我认为这种趋势不会长久。通过细微的变化模拟出3D的效果非常自然，不会被完全取代的。&lt;/p&gt;
+&lt;p&gt;在不久的将来，我们很可能会看到半扁平的UI（这也是我推荐你使用的设计风格）我把它称为“flatty design”，依然非常干净简洁，但是也有一些阴影，有轻点、滑动、按下操作的提示。&lt;/p&gt;
+&lt;p&gt;现在，Google也在各个产品上推行他们的&lt;/p&gt;
+&lt;p&gt;Material Design&lt;/p&gt;
+&lt;p&gt;，提供一种统一的视觉设计语言。Material Design的设计指导为我们展示了它如何运用阴影表现不同的层次。&lt;/p&gt;
+&lt;p&gt;这也是我所认同的类型。用现实世界的元素来传递信息，关键在于:&lt;/p&gt;
+&lt;p&gt;。你不能说它没有模仿现实世界，但也绝不是2006年的网页风格，没有纹理，没有梯度，更没有光泽。&lt;/p&gt;
+&lt;p&gt;我认为“flatty”是未来的方向。扁平化？早晚会过时的。&lt;/p&gt;
+&lt;p&gt;法则2：黑白优先&lt;/p&gt;
+&lt;p&gt;在上色前用灰度模式设计可以简化大量的工作，让你更加关注空间和元素布局。&lt;/p&gt;
+&lt;p&gt;UX设计师现在都喜欢“移动优先”的概念，这就意味着你要先考虑好在手机上如何显示页面，然后才考虑在超清的Retina屏幕上的显示效果。&lt;/p&gt;
+&lt;p&gt;这种限制非常好，能够帮你理清思路。&lt;/p&gt;
+&lt;p&gt;先解决一些棘手的问题（在小屏幕上显示）。然后再解决简单的问题（在大屏幕上的可用性）。&lt;/p&gt;
+&lt;p&gt;我希望你先用黑色和白色设计，先把复杂的问题解决了。在不借助颜色帮助的情况下把app做得美观易用。&lt;/p&gt;
+&lt;p&gt;最后再有目的地上色。&lt;/p&gt;
+&lt;p&gt;这种方法能保持app“干净”、“简洁”。&lt;/p&gt;
+&lt;p&gt;加入过多的颜色很容易毁掉简洁性。&lt;/p&gt;
+&lt;p&gt;“黑白优先”会促使你关注空间、尺寸和布局这些更重要的问题。先来看一些经典的用灰度模式设计的页面。&lt;/p&gt;
+&lt;p&gt;“黑白优先”法则并不适用于所有情况，比如运动、卡通等有着鲜明特色的设计就需要好好地运用各种颜色。&lt;/p&gt;
+&lt;p&gt;不过，大部分app并没有这样鲜明的特点，只要保持干净和整洁就好&lt;/p&gt;
+&lt;p&gt;，绚丽的颜色被公认是很难设计的，所以，还是先用黑色和白色来吧。&lt;/p&gt;
+&lt;p&gt;第二步:如何上色&lt;/p&gt;
+&lt;p&gt;上色最简单的方法就是只加一种颜色。&lt;/p&gt;
+&lt;p&gt;在灰色的基础上只加一种颜色可以简单快速的吸引眼球和注意力。&lt;/p&gt;
+&lt;p&gt;你也可以更进一步，在灰色的基础上加两种颜色，或者添加统一色调的多种颜色。&lt;/p&gt;
+&lt;p&gt;实践中的颜色法则——什么是色调？&lt;/p&gt;
+&lt;p&gt;网页主要用的是十六进制RGB表。但RGB不是个好的颜色设计框架，HSB模式会更好用，其中H(hues)表示色相，S(saturation)表示饱和度，B（brightness）表示亮度。&lt;/p&gt;
+&lt;p&gt;HSB模式是比RGB模式更适合我们看待颜色的方式。如果你对这方面不太了解，以下是一些HSB模式简单的入门知识。&lt;/p&gt;
+&lt;p&gt;通过调整单一色相的饱和度和亮度，你可以生成各种不同的颜色——深色、浅色、背景色、强调的地方、吸引眼球的地方等，但是又不会很扎眼。&lt;/p&gt;
+&lt;p&gt;使用一种或两种基础色调的多种颜色是&lt;/p&gt;
+&lt;p&gt;强调和淡化某些元素，而又不把设计搞得一团糟的最可靠的方法。&lt;/p&gt;
+&lt;p&gt;关于颜色的其它几点建议&lt;/p&gt;
+&lt;p&gt;颜色是视觉设计中最复杂的。我从复杂的理论和长期的实践中挑出了一些好的建议送给你:&lt;/p&gt;
+&lt;p&gt;不要用纯黑色：&lt;/p&gt;
+&lt;p&gt;在现实世界中几乎见不到绝对的黑色。调整不同的饱和度可以增加设计的丰富程度，也更接近现实世界。&lt;/p&gt;
+&lt;p&gt;Adobe Color CC：&lt;/p&gt;
+&lt;p&gt;寻找、调整、创造颜色组合的绝佳工具。&lt;/p&gt;
+&lt;p&gt;在Dribble通过颜色搜索：&lt;/p&gt;
+&lt;p&gt;寻找某种颜色如何搭配的好方法，非常实用，如果你已经决定了要用那种颜色，可以通过颜色搜索看看世界顶级的设计师是如何配色的。&lt;/p&gt;
+&lt;p&gt;法则3：增加空白空间&lt;/p&gt;
+&lt;p&gt;为了让UI看起来更加有设计感，留出一些空白的空间。&lt;/p&gt;
+&lt;p&gt;在第2条法则中，我说到了黑白优先的原则，让设计师在考虑颜色之前先想想空间和布局，那么现在我们就来说说如何安排空间和布局。&lt;/p&gt;
+&lt;p&gt;HTML的默认版式是这样的：&lt;/p&gt;
+&lt;p&gt;所有东西都堆在屏幕上，字号、行距都很小，段与段之间有一些间隔，但是也不是很大。这么布局实在是太难看了。&lt;/p&gt;
+&lt;p&gt;如果你想设计出精美的UI，那就需要留出更多空白的空间。&lt;/p&gt;
+&lt;p&gt;留白空间、HTML和CSS&lt;/p&gt;
+&lt;p&gt;如果你和我以前一样，习惯用CSS来调整布局，那你最好改掉这个坏习惯，因为CSS默认是没有留出空间的。试着把空白当作默认状态，在空白页面添加各种元素。从没有修饰过的HTML开始，先做好内容，然后再做排版。&lt;/p&gt;
+&lt;p&gt;下图是Piotr Kwiatkowski设计的一个音乐播放器。&lt;/p&gt;
+&lt;p&gt;请注意左侧的菜单栏。字号是12px，行间距有文字的两倍高。再看看列表的名称，“PLAYLISTS”和下划线之间有15px的空白，播放列表名称之间还有25px的间距。&lt;/p&gt;
+&lt;p&gt;在顶部导航栏也有很大的空间，搜索图标和“Search all music”占到了导航栏高度的20%。&lt;/p&gt;
+&lt;p&gt;留白的空间收到了良好的效果，不同的元素有机的组合在一起，使得这个页面成为最好的音乐播放器UI之一。&lt;/p&gt;
+&lt;p&gt;大量的空白可以把混乱的界面做得简洁美观，比如这个论坛：&lt;/p&gt;
+&lt;p&gt;或者维基百科：&lt;/p&gt;
+&lt;p&gt;很多人认为在维基百科的这个新页面上，很多功能找不到了，但是你不能否认这是学习页面设计的一个好案例。&lt;/p&gt;
+&lt;p&gt;在行之间留出空间。&lt;/p&gt;
+&lt;p&gt;在各个元素之间留出空间。&lt;/p&gt;
+&lt;p&gt;在各组元素之间留出空间。&lt;/p&gt;
+&lt;p&gt;分析一下哪些是可行的。&lt;/p&gt;
+&lt;p&gt;好了，以上就是第1部分的内容，感谢阅读！&lt;/p&gt;
+&lt;p&gt;在第2部分中，我会讲到剩下的4条法则：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;学会在图片上呈现文字&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;做好强调和淡化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;只用合适的字体&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;善于借鉴优秀的作品&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;[本文编译自：&lt;/p&gt;
+&lt;p&gt;medium.com&lt;/p&gt;</summary><category term="column"></category></entry><entry><title>36氪每日投融资笔记（11月25日）：位置社交、医疗科技、同城物流、医美社区</title><link href="/post/2014-11-25-36ke-mei-ri-tou-rong-zi-bi-ji-11yue-25ri-wei-zhi-she-jiao-yi-liao-ke-ji-tong-cheng-wu-liu-yi-mei-she-qu/" rel="alternate"></link><updated>2014-11-25T22:00:12+08:00</updated><author><name>36kr</name></author><id>tag:,2014-11-25:post/2014-11-25-36ke-mei-ri-tou-rong-zi-bi-ji-11yue-25ri-wei-zhi-she-jiao-yi-liao-ke-ji-tong-cheng-wu-liu-yi-mei-she-qu/</id><summary type="html">&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp一、 LBS匿名社交应用Yik Yak获红杉资本领投6200万美元Yik Yak36氪每日投融资笔记（11月25日）：位置社交、医疗科技、同城物流、医美社区Yik Yak此前曝出获得7500万美元融资，今天放出的消息则是6200万美元融资，由红杉资本领投。二、医疗科技公司爱博诺德获美国富达6250万人民币投资成立仅一年时间，Yik Yak估值已达数亿美金。是一家位于北京中关村的医疗科技有限公司，其第一代产品可折叠疏水性非球面人工晶状体“普诺明”于2014年7月获得CFDA批准，是国内首款自主研发的非球面可折叠人工晶体。三、同城货运叫车平台“神盾快运”获数千万人民币天使轮融资四、 获经纬创投数百万美元A轮融资是一个专注于整形美容服务的五、电商软件提供商Bigcommerce获软银5000万美元D轮融资新氧已经完成A轮数百万美元的融资，投资方是经纬创投。是一个支持小企业开设网店的电商平台，成立于2009年，目前向全球55000家零售商提供服务。帮助人们建立和推广小规模在线业务，提供多种工具和数据分析后台帮助用户建立网店，并配备购物车和支付网关等功能。&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;一、 LBS匿名社交应用Yik Yak获红杉资本领投6200万美元&lt;/p&gt;
 &lt;p&gt;Yik Yak&lt;/p&gt;
