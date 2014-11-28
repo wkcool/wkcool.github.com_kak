@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>“现在的工业机器人都太笨了”，来自MIT和CMU的Mujin公司试图让机器人变聪明</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="wenkr">
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css" />
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+      .tag-1 {
+        font-size: 13pt;
+      }
+      .tag-2 {
+        font-size: 10pt;
+      }
+      .tag-2 {
+        font-size: 8pt;
+      }
+      .tag-4 {
+        font-size: 6pt;
+     }
+     .msummary {
+       color: #566F89;
+       background: #C5DFF8;
+       text-shadow: 2px 1px 0 #E4F1FF;
+    }
+    </style>
+    <link href="/theme/css/bootstrap-responsive.min.css" rel="stylesheet">
+        <link href="/theme/css/font-awesome.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="/theme/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/theme/images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/theme/images/apple-touch-icon-114x114.png">
+
+    <link href="/" type="application/atom+xml" rel="alternate" title="闻客 ATOM Feed" />
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/index.html">闻客 </a>
+          <div class="nav-collapse">
+            <ul class="nav">
+                          <li class="divider-vertical"></li>
+                  <li class="active">
+                    <a href="/category/hu-lian-wang.html">
+						<i class="icon-folder-open icon-large"></i>互联网
+					</a>
+                  </li>
+
+                          <ul class="nav pull-right">
+                                <li><a href="/archives.html"><i class="icon-th-list"></i>历史</a></li>
+                          </ul>
+
+            </ul>
+            <!--<p class="navbar-text pull-right">Logged in as <a href="#">username</a></p>-->
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="span9" id="content">
+<section id="content">
+        <article>
+                <header>
+                        <h1>
+                                <a href=""
+                                        rel="bookmark"
+                                        title="Permalink to “现在的工业机器人都太笨了”，来自MIT和CMU的Mujin公司试图让机器人变聪明">
+                                        “现在的工业机器人都太笨了”，来自MIT和CMU的Mujin公司试图让机器人变聪明
+                                </a>
+                        </h1>
+                </header>
+                <div class="entry-content">
+                <div class="well">
+<footer class="post-info">
+<span class="label">日期&nbsp</span>
+<abbr class="published" title="2014-11-28T17:00:13">
+        <i class="icon-calendar"></i>2014年11月28日 17:00
+</abbr>
+<span class="label"> 由 </span>
+<a href="/author/36kr.html"><!--i class="icon-user"></i-->&nbsp36kr 编辑</a>
+<span class="label">新闻类别</span>
+<a href="/category/hu-lian-wang.html"><i class="icon-folder-open"></i>&nbsp互联网</a>
+
+
+<span class="label">标签</span>
+	<a href="/tag/.html"><i class="icon-tag"></i></a>
+</footer><!-- /.post-info -->                </div>
+                <div class="msummary">&nbsp&nbsp<h4>摘要&nbsp:&nbsp“机器人将会改变世界！创始人来自CMU和MIT的工业机器人编程平台这篇文章所言，由于目前并没有成熟而通用的能对机器人行为进行复杂行为编程的平台，机器人工程师不仅需要良好的编程功底，对底层硬件也必须有相当的了解。产品生产线便是一个目前有较多机器人部署的领域。汽车的生产线和目前最明显的一个问题便是机器人的运动规划。通用机器人编程平台Mujin而日本公司Mujin则试图通过其建立工业机器人的编程平台来一劳永逸的解决这个问题。Mujin作为一个工业机器人的通用编程平台其实主要做了两件事，通用和运动规划。其二则是这不仅是一个高级的编程语言平台，能将更为抽象的语言编译为机器语言，更是一个高级的机器人操控平台，在输入抽象的行为后能够自动规划机器人的运动轨迹。事实上，机器人的运动轨迹规划远没有听上去那样轻松。Mujin在机器人运动规划方面使用的是目前学界较为流行的一种叫便是RRT算法的发明人之一。并且，算法能够计算出人类完全无法想象的多维机械臂运动轨迹，比如有7个关节的机械臂的运动。因此，理想情况下，使用少量工程师加上Mujin平台能为一个条生产线节省大量的费用，而且因为算法生成的运动轨迹往往比凭工程师经验规划的轨迹更为更快速有效，使用Mujin后的生产效率也会得到提高。</h4></div>
+
+<p>“机器人将会改变世界！”“未来是属于机器人的！”最近，包括Google Venture在内的一些美国硅谷投资机构一再重申这样的言论，然而在通往机器人普及道路并非一帆风顺。如果以电脑发展史的思路来看机器人的发展，目前机器人的硬件本身已经发展到了一定的成熟度，然而并没有出现一个跨平台的编程语言能够让开发者方便的为机器人编程。创始人来自CMU和MIT的工业机器人编程平台</p>
+<p>便希望扫除这一障碍，并在最近获得了来自日本风投公司Jafco和Utec的600万美元融资。</p>
+<p>机器人比1岁小孩还不听话</p>
+<p>事实上，我们所说的机器人都不是“人”，而是一些可以模仿人类行为的机械，在工程师的“调教”下，他们能够行走和搬运物体。不过“教”一个机器人走路远比教一个1岁的小朋友走路更辛苦，因为机器人的“大脑”一片空白，它的举手抬足应该以何种角度，到怎样的高度，都需要工程师凭逻辑和经验一一设定。不仅如此，正如</p>
+<p>《大众对机器人技术都有哪些误解》</p>
+<p>这篇文章所言，由于目前并没有成熟而通用的能对机器人行为进行复杂行为编程的平台，机器人工程师不仅需要良好的编程功底，对底层硬件也必须有相当的了解。因此，这早就了机器人编程人才巨大的技术门槛和相关人才的稀缺，所以机器人目前只活跃在少数领域完成简单而重复的动作。</p>
+<p>产品生产线便是一个目前有较多机器人部署的领域。比如</p>
+<p>汽车的生产线和</p>
+<p>的一部分生产线上边部署了大量的机器人，以特定频率重复特定的动作来协作装配。相比于人类工人，机器人既不需要休息，也不会因为劳累而降低效率，或产生错误，在许多方面比人类装配工人更有优势。</p>
+<p>工业机器人就容易调教了？Naive!</p>
+<p>但尽管前景良好，机器人目前在生产线装配的上的运用依然十分有限，除了上文提到的，机器人工程师的巨大技术门槛导致的人才稀缺，以及高价雇用稀缺人才导致的巨大人力成本外，生产线这个特殊的应用场景也会带来许多额外的问题。</p>
+<p>目前最明显的一个问题便是机器人的运动规划。装配空间是一个复杂的环境，机械臂在其中怎样协作，怎样避开障碍物，怎样更加快速和高效的协作，都不是简单的问题。一些我们看起来稀松平常的机器人的动作，往往都是工程师们熬了不知多少个夜晚调试出来了。而日本公司Mujin则试图通过其建立工业机器人的编程平台来一劳永逸的解决这个问题。</p>
+<p>通用机器人编程平台Mujin</p>
+<p>Mujin作为一个工业机器人的通用编程平台其实主要做了两件事，通用和运动规划。利用Mujin的编程平台，程师可以直接控制不同制造商的机械臂规划行为，而不必再去学习其使用的编程语言或底层的硬件逻辑，降低了学习成本；其二则是这不仅是一个高级的编程语言平台，能将更为抽象的语言编译为机器语言，更是一个高级的机器人操控平台，在输入抽象的行为后能够自动规划机器人的运动轨迹。</p>
+<p>上图是四行Mujin平台上的代码，下图是编译后机械臂实现的动作</p>
+<p>事实上，机器人的运动轨迹规划远没有听上去那样轻松。在有限的空间中，怎样避开其他障碍物，怎样让机械臂的移动距离最短，怎样让机械臂的磨损更小，都需要多名经验丰富的工程师少则数日多则数月的调试。并且机械臂的移动方式往往是反直觉的，为了达到较优的运动轨迹，机械臂时常会做出180°旋转等人类无法实现的动作。</p>
+<p>Mujin在机器人运动规划方面使用的是目前学界较为流行的一种叫</p>
+<p>（Rapidly exploring Random Tree）的算法，简单的来说便是在三维空间中，随机产生可以从点a到点b的路径，再从中取机机器人能够实现且最短最短的路径。Mujin的CTO</p>
+<p>Rosen Diankov</p>
+<p>James Kuffner</p>
+<p>便是RRT算法的发明人之一。因此，将装配车间的三维模型导入在Mujin平台后，输入有关机械臂任何运动指令，Mujin都会直接计算出较优的运动轨迹，然后告诉机械臂怎样运动。并且，算法能够计算出人类完全无法想象的多维机械臂运动轨迹，比如有7个关节的机械臂的运动。</p>
+<p>Mujin的愿景</p>
+<p>尽管RRT算法听上去很“暴力”，但这已经是目前人类所知的最高效而通用的运动轨迹算法了，并且算法的效率实质取决于使用者对其的理解，优化，和实行。毕业于MIT的Mujin软件开发总监刘欢告诉我，Mujin的目前几乎可以做到实时运动轨迹规划，也就是说，几乎在输入指令的同时，机器人便可以展示计算出的轨迹。这样的计算效率的领先程度，目前几乎没有任何其他的大学实验室或者商用公司可以实现。</p>
+<p>Mujin的团队由中国、日本、美国、乌克兰、印度，等多个国家的程序员组成，办公室坐落在目前世界上工业机器人运用的最广泛的日本。Mujin平台已经被部署在了包括佳能，本田，日产等日本企业的一部分生产线。</p>
+<p>目前，一条有20个通用机械臂的生产线对机械臂的成本支出在40~100万美元，但操控机械臂带来的人力成本往往是机械臂成本的数倍。因此，理想情况下，使用少量工程师加上Mujin平台能为一个条生产线节省大量的费用，而且因为算法生成的运动轨迹往往比凭工程师经验规划的轨迹更为更快速有效，使用Mujin后的生产效率也会得到提高。然而这只是理想情况，在稳定的前提下追求高效的大厂商凭什么信任一个初创企业？对此，刘欢自信的告诉我，“本来我也有些疑问，但他们（日本企业的代表）真的很有经验，看到Mujin平台计算出的运动轨迹就知道它在这方面做的更快更高效。”Mujin也因此获得了来自Jafco和Utec两家日本风投机构的的600万美元融资。</p>
+<p>在更长远的角度上，Mujin希望能将此平台推广到更多领域。可移植的编程语言，和智能的运动轨迹规划几乎是机器人在通往大众普及道路上必经的两步路。通过提供高级，通用，不用考虑运动规划的机器人编程平台，让开发者甚至是普通人都能更好的利用机器人，实现”industrial robots for everyone“便是Mujin对未来的使命与愿景。</p>
+<p>对许多科技上的乐观主义者来说，Mujin正在做一些激动人心的事情，然而这条路在现实中不仅异常繁琐而且困难重重。但我认为Mujin正在做出很好的尝试：在学界和业界的融合中，人类离机器人的大众化运用又迈进了不知距离的一步。</p>
+<p>最后帮Mujin打个小广告：他们正在招软件工程师，办公环境极为适合程序猿生长。办公室在秋叶原旁边，提供日文教学，工作语言为英文。要求上...Mujin的CTO Diankov 博士毕业前论文引用率是300多次，员工包括ACM欧洲区的银牌得主，中国的国家级奥数金牌得主等，大家请自行体会。有兴趣的程序员请投简历到job@mujin.co.jp。</p>
+                </div><!-- /.entry-content -->
+        </article>
+</section>
+        </div><!--/span-->
+
+        <div class="span3 well sidebar-nav" id="sidebar">
+<ul class="nav nav-list">
+
+<li class="nav-header"><h4><i class="icon-folder-close icon-large"></i>新闻类别</h4></li>
+<li>
+<a href="/category/hu-lian-wang.html">
+    <i class="icon-folder-open icon-large"></i>互联网
+</a>
+</li>
+
+<li class="nav-header"><h4><i class="icon-tags icon-large"></i>标签</h4></li>
+<li class="tag-4">
+    <a href="/tag/hong-tai-ji-jin.html">
+        <i class="icon-tag icon-large"></i>洪泰基金
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/.html">
+        <i class="icon-tag icon-large"></i>
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/mei-jie.html">
+        <i class="icon-tag icon-large"></i>媒介
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/shi-zhi.html">
+        <i class="icon-tag icon-large"></i>市值
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/digest.html">
+        <i class="icon-tag icon-large"></i>digest
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dan-mu.html">
+        <i class="icon-tag icon-large"></i>弹幕
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/qi-che-zhi-jia.html">
+        <i class="icon-tag icon-large"></i>汽车之家
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ma-yun.html">
+        <i class="icon-tag icon-large"></i>马云
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/suan-fa.html">
+        <i class="icon-tag icon-large"></i>算法
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wei-ruan.html">
+        <i class="icon-tag icon-large"></i>微软
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/te-si-la.html">
+        <i class="icon-tag icon-large"></i>特斯拉
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/peng-lei.html">
+        <i class="icon-tag icon-large"></i>彭蕾
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dong-qiu-di.html">
+        <i class="icon-tag icon-large"></i>懂球帝
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/xiao-mi.html">
+        <i class="icon-tag icon-large"></i>小米
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/che-yi-pai.html">
+        <i class="icon-tag icon-large"></i>车易拍
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ping-ban-dian-nao.html">
+        <i class="icon-tag icon-large"></i>平板电脑
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/duo-nuo-zu-che.html">
+        <i class="icon-tag icon-large"></i>多诺租车
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/shen-du-xue-xi.html">
+        <i class="icon-tag icon-large"></i>深度学习
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/shu-ju-she-ji-shi.html">
+        <i class="icon-tag icon-large"></i>数据设计师
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/san-xing.html">
+        <i class="icon-tag icon-large"></i>三星
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/yuan-dai-ma.html">
+        <i class="icon-tag icon-large"></i>元代码
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dafeige.html">
+        <i class="icon-tag icon-large"></i>dafeige
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhou-hong-yi.html">
+        <i class="icon-tag icon-large"></i>周鸿祎
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/a-li-jian-kang.html">
+        <i class="icon-tag icon-large"></i>阿里健康
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chuang-ye-gong-si-shi-pin.html">
+        <i class="icon-tag icon-large"></i>创业公司视频
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/lai-dian-tong.html">
+        <i class="icon-tag icon-large"></i>来店通
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/column.html">
+        <i class="icon-tag icon-large"></i>column
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ren-gong-zhi-neng.html">
+        <i class="icon-tag icon-large"></i>人工智能
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/she-ji-shi.html">
+        <i class="icon-tag icon-large"></i>设计师
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/you-xin-pai.html">
+        <i class="icon-tag icon-large"></i>优信拍
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/tui-te.html">
+        <i class="icon-tag icon-large"></i>推特
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/che-wang-er-shou-che.html">
+        <i class="icon-tag icon-large"></i>车王二手车
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/bi-lei.html">
+        <i class="icon-tag icon-large"></i>毕磊
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/cn-news.html">
+        <i class="icon-tag icon-large"></i>cn-news
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zi-you-zhi-ye.html">
+        <i class="icon-tag icon-large"></i>自由职业
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-mi-shou-huan.html">
+        <i class="icon-tag icon-large"></i>小米手环
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ren-li.html">
+        <i class="icon-tag icon-large"></i>人力
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/nei-rong.html">
+        <i class="icon-tag icon-large"></i>内容
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/bai-du-tie-ba.html">
+        <i class="icon-tag icon-large"></i>百度贴吧
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/a-li-ba-ba.html">
+        <i class="icon-tag icon-large"></i>阿里巴巴
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/shu-ju.html">
+        <i class="icon-tag icon-large"></i>数据
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/krtv.html">
+        <i class="icon-tag icon-large"></i>krtv
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhang-quan-dan.html">
+        <i class="icon-tag icon-large"></i>张全蛋
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wan-ju-bei-jing.html">
+        <i class="icon-tag icon-large"></i>玩聚北京
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhi-neng-ying-jian.html">
+        <i class="icon-tag icon-large"></i>智能硬件
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhou-bo-tong-zhao-pin.html">
+        <i class="icon-tag icon-large"></i>周伯通招聘
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhong-guo-yi-dong.html">
+        <i class="icon-tag icon-large"></i>中国移动
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/mei-han.html">
+        <i class="icon-tag icon-large"></i>美瀚
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/kuai-fang-song-yao.html">
+        <i class="icon-tag icon-large"></i>快方送药
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wo-shi-chuang-ye-zhe.html">
+        <i class="icon-tag icon-large"></i>我是创业者
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/chuang-ye.html">
+        <i class="icon-tag icon-large"></i>创业
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chun-yu-yi-sheng.html">
+        <i class="icon-tag icon-large"></i>春雨医生
+    </a>
+</li>
+
+<!-- 
+</ul>        </div> 
+        <!--/.well -->
+
+      </div><!--/row-->
+
+      <hr>
+    </div><!--/.fluid-container-->
+
+
+
+    <script src="/theme/js/jquery-1.7.2.min.js"></script>
+    <script src="/theme/js/bootstrap.min.js"></script>
+  </body>
+</html>
