@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 27 Nov 2014 23:00:13 +0800</lastBuildDate><item><title>关于Magic Leap的一些猜想</title><link>/post/2014-11-27-guan-yu-magic-leapde-yi-xie-cai-xiang/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp关于Magic Leap的一些猜想众所周知，Magic Leap很神秘，拿了一笔大钱，却让很多人捉摸不透。如果我没猜错的话，Magic Leap想做的，应该是一款可以让计算图形和现实世界无缝融合的增强版专利和技术层面研究这种技术的光纤扫描显示技术。事实上，Magic Leap的许多专利应用都是围绕如何把光从光纤反射到眼球里进行的。而Magic Leap的许多专利都能够解决这些问题：可以用来说明如何利用LCD “occlusion mask”来挡住现实世界里虚拟物体占据的位置所反射出来的光线，让虚拟物体不会失真；，则说明了如何利用一系列装置摄像头让软件系统知道人在现实世界中的位置和运动情况；这一点尤为重要，因为Magic Leap将要依靠这一项专利实现核心效果：利用数字光场技术，则描述了如何利用眼镜里内嵌的摄像头追踪眼球注意力。，让CG虚拟物体看起来像是真的在现实世界里占据了一块具有景深的空间。Magic Leap里的一些牛人&lt;/h4&gt;&lt;/div&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 28 Nov 2014 09:00:11 +0800</lastBuildDate><item><title>451 Research调查结果显示，最受企业IT专业人士欢迎的企业云存储服务竟是Dropbox</title><link>/post/2014-11-28-451-researchdiao-cha-jie-guo-xian-shi-zui-shou-qi-ye-itzhuan-ye-ren-shi-huan-ying-de-qi-ye-yun-cun-chu-fu-wu-jing-shi-dropbox/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp451 Research调查结果显示，最受企业IT专业人士欢迎的企业云存储服务竟是Dropbox451 Researc哪个云存储和协作分享服务最受企业用户欢迎？h发布的以1000个IT专业人士为样本的调查结果有点令人惊讶，答案竟是Dropbox，以接近45%的比例占据榜首，随后是27%的微软OneDrive， Google Drive则以24%占第三。受访者中仅有18%是付费用户，很难想像这倒底意味着什么，也可能是如报告所说，这个行业还处于市场早期，每个玩家都还有很大的成长空间。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;哪个云存储和协作分享服务最受企业用户欢迎？&lt;/p&gt;
+&lt;p&gt;451 Researc&lt;/p&gt;
+&lt;p&gt;h发布的以1000个IT专业人士为样本的调查结果有点令人惊讶，答案竟是Dropbox，以接近45%的比例占据榜首，随后是27%的微软OneDrive， Google Drive则以24%占第三。&lt;/p&gt;
+&lt;p&gt;受访者中仅有18%是付费用户，很难想像这倒底意味着什么，也可能是如报告所说，这个行业还处于市场早期，每个玩家都还有很大的成长空间。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Fri, 28 Nov 2014 09:00:11 +0800</pubDate><guid>tag:,2014-11-28:post/2014-11-28-451-researchdiao-cha-jie-guo-xian-shi-zui-shou-qi-ye-itzhuan-ye-ren-shi-huan-ying-de-qi-ye-yun-cun-chu-fu-wu-jing-shi-dropbox/</guid><category></category></item><item><title>欧洲议会通过分拆Google提案，微软立功了</title><link>/post/2014-11-28-ou-zhou-yi-hui-tong-guo-fen-chai-googleti-an-wei-ruan-li-gong-liao/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp欧洲议会通过分拆Google提案，微软立功了Google的这个感恩节过得不好。延伸到全球的要求之后，他们又收到了在刚刚收到欧盟委员会要求要求其在欧洲将其搜索引擎与其他产品分拆的提案的消息。“因为某些垄断市场的搜索引擎，很多网络服务的提供商不能很好的接触到他们的用户。欧洲议会的举动主要是为了向正在对Google进行反垄断调查的欧盟施压，后者对垄断行为的处置具有决定性权利。虽然欧洲议会的提案提出之后，美国政府方面马上提出了抗议，白宫司法委员会主席Bob Goodlatte致信欧盟，“我们相信在我们共同认同的国际准则下，Google的反垄断调查是独立于政治之外的。新闻集团 CEO 罗伯特·汤姆森最后，的一纸公开信让Google与欧盟在反垄断上的和解成为泡影，调查随着调查官员阿尔穆尼亚任期结束被拖入下个4年。微软当年遭受马拉松式的反垄断案调查最终以罚款 12 亿美元告终。今年9月底，和爱尔兰政府暗箱操作逃税，面临欧盟数十亿美元罚款。如果之后Google被认定存在垄断行为，将面临最高 60 亿美元罚款。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;Google的这个感恩节过得不好。在刚刚收到欧盟委员会要求&lt;/p&gt;
+&lt;p&gt;Google将“被遗忘权”&lt;/p&gt;
+&lt;p&gt;延伸到全球的要求之后，他们又收到了&lt;/p&gt;
+&lt;p&gt;以384票赞成、174票反对的结果&lt;/p&gt;
+&lt;p&gt;要求其在欧洲将其搜索引擎与其他产品分拆的提案的消息。&lt;/p&gt;
+&lt;p&gt;欧洲议会希望通过这一方式限制Google在搜索上的主导地位。&lt;/p&gt;
+&lt;p&gt;目前欧洲市场上Google的份额为90%，远超美国本土的68%。他们认为Google利用自身的作为用户上网的主要入口这样的优势进行服务的垄断，阻碍了其他企业的正常发展。“因为某些垄断市场的搜索引擎，很多网络服务的提供商不能很好的接触到他们的用户。”&lt;/p&gt;
+&lt;p&gt;不过从法律的角度上，欧洲议会不能要求谷歌进行业务拆分，该动议将只有象征意义。欧洲议会的举动主要是为了向正在对Google进行反垄断调查的欧盟施压，后者对垄断行为的处置具有决定性权利。&lt;/p&gt;
+&lt;p&gt;虽然欧洲议会的提案提出之后，美国政府方面马上提出了抗议，白宫司法委员会主席Bob Goodlatte致信欧盟，“我们相信在我们共同认同的国际准则下，Google的反垄断调查是独立于政治之外的。”但是Google受罚的背后推手主要是美国公司。&lt;/p&gt;
+&lt;p&gt;路透社的报道&lt;/p&gt;
+&lt;p&gt;，虽然Google过去两年经过艰苦谈判终于在今年2月与欧盟委员会签订了和解协议，&lt;/p&gt;
+&lt;p&gt;但微软、Yelp、Expedia和TripAdvisor等美国科技公司联合反对，这些美国“队友”不仅以各种调查研究为依据来证明和解方案对于Google的垄断地位是徒劳无益的，还洒下真金白银用于欧洲议会和欧盟委员会的院外游说。&lt;/p&gt;
+&lt;p&gt;与此同时，欧洲各国纷纷实施反谷歌的版权法规，将Google当做本国新闻业问题的替罪羔羊。最后，&lt;/p&gt;
+&lt;p&gt;新闻集团 CEO 罗伯特·汤姆森&lt;/p&gt;
+&lt;p&gt;的一纸公开信让Google与欧盟在反垄断上的和解成为泡影，调查随着调查官员阿尔穆尼亚任期结束被拖入下个4年。&lt;/p&gt;
+&lt;p&gt;回顾历史，欧盟对美国公司从来不手软。微软当年遭受马拉松式的反垄断案调查最终以罚款 12 亿美元告终。Intel 曾经被罚款 14.5 亿美元。今年9月底，&lt;/p&gt;
+&lt;p&gt;和爱尔兰政府暗箱操作逃税，面临欧盟数十亿美元罚款。如果之后Google被认定存在垄断行为，将面临最高 60 亿美元罚款。&lt;/p&gt;
+&lt;p&gt;嗯，这样一来，美国公司就算在欧盟获得“平等待遇”。哎，资本主义真是腐朽！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Fri, 28 Nov 2014 09:00:11 +0800</pubDate><guid>tag:,2014-11-28:post/2014-11-28-ou-zhou-yi-hui-tong-guo-fen-chai-googleti-an-wei-ruan-li-gong-liao/</guid><category>微软</category></item><item><title>关于Magic Leap的一些猜想</title><link>/post/2014-11-27-guan-yu-magic-leapde-yi-xie-cai-xiang/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp关于Magic Leap的一些猜想众所周知，Magic Leap很神秘，拿了一笔大钱，却让很多人捉摸不透。如果我没猜错的话，Magic Leap想做的，应该是一款可以让计算图形和现实世界无缝融合的增强版专利和技术层面研究这种技术的光纤扫描显示技术。事实上，Magic Leap的许多专利应用都是围绕如何把光从光纤反射到眼球里进行的。而Magic Leap的许多专利都能够解决这些问题：可以用来说明如何利用LCD “occlusion mask”来挡住现实世界里虚拟物体占据的位置所反射出来的光线，让虚拟物体不会失真；，则说明了如何利用一系列装置摄像头让软件系统知道人在现实世界中的位置和运动情况；这一点尤为重要，因为Magic Leap将要依靠这一项专利实现核心效果：利用数字光场技术，则描述了如何利用眼镜里内嵌的摄像头追踪眼球注意力。，让CG虚拟物体看起来像是真的在现实世界里占据了一块具有景深的空间。Magic Leap里的一些牛人&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;众所周知，Magic Leap很神秘，拿了一笔大钱，却让很多人捉摸不透。身为Gizmodo资深记者的Sean Hollister好奇难耐，决定通过种种渠道尝试推测还原出Magic Leap的真实面目。来看看他的猜测和分析：&lt;/p&gt;
 &lt;p&gt;直入主题吧。如果我没猜错的话，Magic Leap想做的，应该是一款可以让计算图形和现实世界无缝融合的增强版&lt;/p&gt;
