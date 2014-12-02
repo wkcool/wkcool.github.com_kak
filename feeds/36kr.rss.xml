@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/36kr.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 02 Dec 2014 16:00:16 +0800</lastBuildDate><item><title>“无效的用户名或密码”：这种设计真的糟透了</title><link>/post/2014-12-02-wu-xiao-de-yong-hu-ming-huo-mi-ma-zhe-chong-she-ji-zhen-de-zao-tou-liao/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp“无效的用户名或密码”：这种设计真的糟透了如果登陆时输错了用户名（通常是邮箱）或者密码，大部分系统会弹出这么一句话：Invalid Username or Password（无效的用户名或密码）。系统不会告诉你究竟是哪一个输错了，因为他们是特意被设计成这样的，就像下面这些例子：这样做的原因，是出于安全性，如果有人恶意尝试破解，试错时具体告诉他们密码错了就意味着邮箱是对的(账户存在)，无形中为他们排除了一个选项。也就是说，“无效的用户名或密码”这句话的设计根本达不到预想的安全防御目的。这样的设计不仅没有安全价值，更重要的是，它把普通用户登陆时的用户体验搞得很糟糕。“无效的用户名或密码”这个设计，不能说是安全性和用户体验之间的一种权衡，因为它本身不存在安全性的优点。真正在安全性和用户体验之间做出的权衡设计应该是这样的：你可以保留登陆系统里的“无效的用户名或密码”这种防试错方式，但是当用户尝试用邮箱注册时，系统应该往邮箱里发送一封可以直接完成剩余注册过程的邮件，这样除了真正拥有该邮箱的用户，其他人都无法知道这个邮箱是否注册过账户。软件的结合；的指纹识别技术结合；直接舍弃密码的无密码登陆系统甚至是但现在太多的网站还保留着“无效的用户名或密码”这种蹩脚的设计。这反映出网站系统的设计就应该是要多方位配合的，像这种预防试错的登陆系统，如果没有注册系统的配合就是形同虚设，白白拉低用户体验而已。&lt;/h4&gt;&lt;/div&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/36kr.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 02 Dec 2014 17:00:12 +0800</lastBuildDate><item><title>23andMe的基因诊断到底靠不靠谱？英国Yes，美国Oops……</title><link>/post/2014-12-02-23andmede-ji-yin-zhen-duan-dao-di-kao-bu-kao-pu-ying-guo-yesmei-guo-oops/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp英国Yes，美国Oops……基因检测疾病属于健康检测方式中相对深入的一种，通过分子生物学对人体易感基因进行检测和分析，用户可以了解身体的状况以及可能存在的疾病隐患，后续跟踪相应的疾病预防和健康指导。但基因检测公司基因检测最典型的例子，莫过于好莱坞女神安吉丽娜朱莉得知家族有基因缺陷，罹患乳癌和卵巢癌风险较高时，毅然决定接受预防性双侧乳腺切除手术。一年前在美国被FDA（Food and Drug Administration，药监局）叫停23andMe的命运比较相似，前者23andMe100000基因组科研项目在英国走的比较顺利，目前它的检测组合（包括唾液采集容器、容器塞、透明袋等）已经获得科学伦理研究会（Research Ethics Committee）的许可，不论是通过公共医疗（NHS）或者私人医疗，都可以将英国公民纳入研究和业务范围。报道，英国方面之所以支持23andMe是因为它在某种程度上推动当地发展通过对100000个基因测序来做疾病检测、标记和预测。[本文参考以下来源：既然是医疗设备，就要受到监管……美国方面，FDA依旧没有接触对23andMe的限制，理由是疾病检测具有一定风险，万一检测失误，人们由于恐惧将来会得乳癌就做了乳房切除手术，人们的健康损失、谁来担此责任都成了不得不考量的问题。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;基因检测疾病属于健康检测方式中相对深入的一种，通过分子生物学对人体易感基因进行检测和分析，用户可以了解身体的状况以及可能存在的疾病隐患，后续跟踪相应的疾病预防和健康指导。&lt;/p&gt;
+&lt;p&gt;基因检测最典型的例子，莫过于好莱坞女神安吉丽娜朱莉得知家族有基因缺陷，罹患乳癌和卵巢癌风险较高时，毅然决定接受预防性双侧乳腺切除手术。但基因检测公司&lt;/p&gt;
+&lt;p&gt;23andMe&lt;/p&gt;
+&lt;p&gt;的命运比较相似，前者&lt;/p&gt;
+&lt;p&gt;一年前在美国被FDA（Food and Drug Administration，药监局）叫停&lt;/p&gt;
+&lt;p&gt;23andMe&lt;/p&gt;
+&lt;p&gt;在英国走的比较顺利，目前它的检测组合（包括唾液采集容器、容器塞、透明袋等）已经获得科学伦理研究会（Research Ethics Committee）的许可，不论是通过公共医疗（NHS）或者私人医疗，都可以将英国公民纳入研究和业务范围。&lt;/p&gt;
+&lt;p&gt;Engadget&lt;/p&gt;
+&lt;p&gt;报道，英国方面之所以支持23andMe是因为它在某种程度上推动当地发展&lt;/p&gt;
+&lt;p&gt;100000基因组科研项目&lt;/p&gt;
+&lt;p&gt;（Genomics England）。通过对100000个基因测序来做疾病检测、标记和预测。&lt;/p&gt;
+&lt;p&gt;美国方面，FDA依旧没有接触对23andMe的限制，理由是疾病检测具有一定风险，万一检测失误，人们由于恐惧将来会得乳癌就做了乳房切除手术，人们的健康损失、谁来担此责任都成了不得不考量的问题。既然是医疗设备，就要受到监管……&lt;/p&gt;
+&lt;p&gt;[本文参考以下来源：&lt;/p&gt;
+&lt;p&gt;engadget.com&lt;/p&gt;
+&lt;p&gt;theverge.com&lt;/p&gt;
+&lt;p&gt;theguardian.com&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Tue, 02 Dec 2014 17:00:12 +0800</pubDate><guid>tag:,2014-12-02:post/2014-12-02-23andmede-ji-yin-zhen-duan-dao-di-kao-bu-kao-pu-ying-guo-yesmei-guo-oops/</guid><category>创业</category></item><item><title>创业本质上还是人文的东西：读“人品不好的创业者难成大事”有感</title><link>/post/2014-12-02-chuang-ye-ben-zhi-shang-huan-shi-ren-wen-de-dong-xi-du-ren-pin-bu-hao-de-chuang-ye-zhe-nan-cheng-da-shi-you-gan/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp上发了Paul Graham最新写的文章：人品不好的创业者难成大事创业本质上还是人文的东西：读“人品不好的创业者难成大事”有感我们的作者 icecutie 同学起了个好标题，前几天我看到英文原标题直到今天早晨看到这个标题，才明白差点错过一篇好文章。以前写的可能更多的是术的层面：但是现在他开始谈到一个创业者的人品了。我通过这种直觉来判断一个人的人品是否合适，然后再考察他其他的能力。公司今天文化和价值观的基础。创业者这个东西就更加重要了。创业本质上还是人文的东西。人文决定了一个创业者做出来的公司是个普通公司还是伟大公司。这种情况基本上公司就比较难做大了。很多合伙人之间打架除了利益纠纷大多也就是因为不能够包容对方吧，永远的互相指责是没有意义的。今天我们处在一个机会遍地都是的时代，一个创业者如果能坚持这些人文的东西，有好的人品，有胸怀，善良，孝顺，能包容人，他不一定就能成大事，我也不觉得我有判断这个的能力，但是我觉得他们应该总能折腾点东西出来，让自己和团队生活的不错。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;上发了Paul Graham最新写的文章：&lt;/p&gt;
+&lt;p&gt;人品不好的创业者难成大事&lt;/p&gt;
+&lt;p&gt;。我就分享到朋友圈了。然后我看到Fenng、张颖、王强这些人紧接着都分享了这篇文章。&lt;/p&gt;
+&lt;p&gt;很快我的朋友圈就被这篇文章刷屏了，几十分钟内大概看到有40多人分享。这还是我们官方微信公众号没推的情况下。&lt;/p&gt;
+&lt;p&gt;我们的作者 icecutie 同学起了个好标题，前几天我看到英文原标题 &lt;/p&gt;
+&lt;p&gt;mean people fail&lt;/p&gt;
+&lt;p&gt;时就没这么大感觉，点进去扫了几眼也没看明白原来讲的是这回事。直到今天早晨看到这个标题，才明白差点错过一篇好文章。&lt;/p&gt;
+&lt;p&gt;看完我有一个感叹，Paul Graham终于写更加本质的人性方向的内容了。以前写的可能更多的是术的层面：&lt;/p&gt;
+&lt;p&gt;如何产生好的idea&lt;/p&gt;
+&lt;p&gt;、未来的趋势、技术等。但是现在他开始谈到一个创业者的人品了。&lt;/p&gt;
+&lt;p&gt;这其实谈到了更深的层次。&lt;/p&gt;
+&lt;p&gt;招人的时候，会把一个人的人品放到第一位，能力以及对行业的理解都是放到后面的。最早期我们的作者几乎都是我招来的，我没有太多的面试技巧，也从来没有做过背景调查。更多的是一种直觉，就像Paul Graham在文章里说他妻子有一种天生的能力能洞察一个人的人品一样，其实大部分人都有，只是强弱不同。我通过这种直觉来判断一个人的人品是否合适，然后再考察他其他的能力。从结果来看，我招来的人没有一个人品差的人，这些人也成了&lt;/p&gt;
+&lt;p&gt;公司今天文化和价值观的基础。&lt;/p&gt;
+&lt;p&gt;创业者这个东西就更加重要了。&lt;/p&gt;
+&lt;p&gt;今年在微软办&lt;/p&gt;
+&lt;p&gt;WISE Talk&lt;/p&gt;
+&lt;p&gt;活动前，我和真格基金的王强老师聊天，王老师有类似的观点：&lt;/p&gt;
+&lt;p&gt;创业本质上还是人文的东西。人文决定了一个创业者做出来的公司是个普通公司还是伟大公司。&lt;/p&gt;
+&lt;p&gt;创业的一些方法论的东西是比较容易学的，但是这些人文的东西就很难学，甚至有些人能力非常顶尖了，但是他的人品、他的胸怀永远停留在初级的水平。&lt;/p&gt;
+&lt;p&gt;我喜欢看中国古代的东西，古人写的文章，古代历史。历史上和人品一样重要的一些东西是古人几千年一直都在提倡的：比如孝顺、善良、包容、格局、不以物喜不以己悲等等等等。&lt;/p&gt;
+&lt;p&gt;有些人你大概接触一下就知道他的格局是什么样了，他们可能追求很眼前的东西，舍不掉短期的利益，不能坚持自己的原则。这种情况基本上公司就比较难做大了。&lt;/p&gt;
+&lt;p&gt;创始人之间出现矛盾是很正常的，每个人都有自己的优缺点，但是否大家首先都是好人？是否能够包容对方？很多合伙人之间打架除了利益纠纷大多也就是因为不能够包容对方吧，永远的互相指责是没有意义的。我和成城一起创业几年，大概都能看明白对方有哪些优点和不足，有很多观点不一致的地方，如果不能互相包容，早就打上天了。&lt;/p&gt;
+&lt;p&gt;从一个更长远的时间来看，比如几十年，我们今天日常中发生的事情其实都非常表象了，而只有那些本质的东西，才会一直留存下去。&lt;/p&gt;
+&lt;p&gt;今天我们处在一个机会遍地都是的时代，一个创业者如果能坚持这些人文的东西，有好的人品，有胸怀，善良，孝顺，能包容人，他不一定就能成大事，我也不觉得我有判断这个的能力，但是我觉得他们应该总能折腾点东西出来，让自己和团队生活的不错。如果再有那么一点运气，很可能就走得更远了。更重要的是，这样每天的生活也才够踏实啊。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Tue, 02 Dec 2014 17:00:12 +0800</pubDate><guid>tag:,2014-12-02:post/2014-12-02-chuang-ye-ben-zhi-shang-huan-shi-ren-wen-de-dong-xi-du-ren-pin-bu-hao-de-chuang-ye-zhe-nan-cheng-da-shi-you-gan/</guid><category>column</category><category>人文</category></item><item><title>“无效的用户名或密码”：这种设计真的糟透了</title><link>/post/2014-12-02-wu-xiao-de-yong-hu-ming-huo-mi-ma-zhe-chong-she-ji-zhen-de-zao-tou-liao/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp“无效的用户名或密码”：这种设计真的糟透了如果登陆时输错了用户名（通常是邮箱）或者密码，大部分系统会弹出这么一句话：Invalid Username or Password（无效的用户名或密码）。系统不会告诉你究竟是哪一个输错了，因为他们是特意被设计成这样的，就像下面这些例子：这样做的原因，是出于安全性，如果有人恶意尝试破解，试错时具体告诉他们密码错了就意味着邮箱是对的(账户存在)，无形中为他们排除了一个选项。也就是说，“无效的用户名或密码”这句话的设计根本达不到预想的安全防御目的。这样的设计不仅没有安全价值，更重要的是，它把普通用户登陆时的用户体验搞得很糟糕。“无效的用户名或密码”这个设计，不能说是安全性和用户体验之间的一种权衡，因为它本身不存在安全性的优点。真正在安全性和用户体验之间做出的权衡设计应该是这样的：你可以保留登陆系统里的“无效的用户名或密码”这种防试错方式，但是当用户尝试用邮箱注册时，系统应该往邮箱里发送一封可以直接完成剩余注册过程的邮件，这样除了真正拥有该邮箱的用户，其他人都无法知道这个邮箱是否注册过账户。软件的结合；的指纹识别技术结合；直接舍弃密码的无密码登陆系统甚至是但现在太多的网站还保留着“无效的用户名或密码”这种蹩脚的设计。这反映出网站系统的设计就应该是要多方位配合的，像这种预防试错的登陆系统，如果没有注册系统的配合就是形同虚设，白白拉低用户体验而已。&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;如果登陆时输错了用户名（通常是邮箱）或者密码，大部分系统会弹出这么一句话：Invalid Username or Password（无效的用户名或密码）。系统不会告诉你究竟是哪一个输错了，因为他们是特意被设计成这样的，就像下面这些例子：&lt;/p&gt;
 &lt;p&gt;这样做的原因，是出于安全性，如果有人恶意尝试破解，试错时具体告诉他们密码错了就意味着邮箱是对的(账户存在)，无形中为他们排除了一个选项。&lt;/p&gt;
