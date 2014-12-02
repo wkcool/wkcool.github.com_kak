@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 02 Dec 2014 21:00:14 +0800</lastBuildDate><item><title>所以在腾讯眼中，音乐是一门什么样的生意？</title><link>/post/2014-12-02-suo-yi-zai-teng-xun-yan-zhong-yin-le-shi-yi-men-shi-yao-yang-de-sheng-yi/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp没有想到氪星人居然会和TVB出现在同一个发布会。今天腾讯旗下的QQ音乐在香港召开战略发布会，宣布与韩国YG Entertainment（YG娱乐）签署独家合作，代理后者在中国大陆地区的网络音乐版权。就是有钱，就是任性腾讯今年连续发力内容，的第二周，腾讯视频宣布获得HBO在中国的独家版权。上个月QQ音乐起诉网易云音乐侵犯版权。目前QQ音乐已经拥有了800万首音乐的版权，独家版权的比例也越来越高。内容行业已经是BAT“权力的游戏”：就是有钱，就是任性！顶端优势还是长尾效应黄楚雄有这个问题答案，他告诉版权不是负担“我们要做的不是把版权独家买下来，免费让用户使用”，彭迦信告诉腾讯积累的用户数据可以帮助音乐行业的上游做很多事情”。至少腾讯可以告诉你，什么样的音乐受欢迎。我们希望能够让用户在各种使用场景的切换中获得最好的音乐体验，希望QQ音乐能够成为伴随用户终生的朋友。&lt;/h4&gt;&lt;/div&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 02 Dec 2014 22:00:12 +0800</lastBuildDate><item><title>36氪每日投融资笔记（12月2日）：按需打车、NoSQL数据库、校园分期购物、境外旅游OTA、视频即时通讯、酒店P2P</title><link>/post/2014-12-02-36ke-mei-ri-tou-rong-zi-bi-ji-12yue-2ri-an-xu-da-che-nosqlshu-ju-ku-xiao-yuan-fen-qi-gou-wu-jing-wai-lu-you-ota-shi-pin-ji-shi-tong-xun-jiu-dian-p2p/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp一、Uber委托高盛以可转债形式融资10亿美元按需打车服务初创企业36氪每日投融资笔记（12月2日）：按需打车、NoSQL数据库、校园分期购物、境外旅游OTA、视频即时通讯、酒店P2P已聘请高盛代理新一轮的融资，拟以近 400 亿美元的估值再融资 10 亿美元以上，所得融资将用于 Uber 的国际化扩张。数据库。这类企业。三、校园分期购物平台“趣分期”获得1亿美元C轮融资是一家主要服务于大学生信用消费的分期购物平台。四、传分期乐完成DST领投亿级美金融资校园分期购物在今年上半年被打开热度后，迄今已有不下 20 家团队加入战局。分期乐完成B轮融资，它自称估值已达数十亿，如果属实，这确刷新了行业融资记录。五、视频即时通讯应用Glide融资2000万美元，估值1亿美元Glide能够让用户记录视频通讯，并且能够象文本通讯应用进行的那样发送所记录视频通讯。其服务基于一种云架构，用户发送的视频在不到一秒后就能够被接收者看到。它是第一家为退订酒店客房提供P2P市场服务的初创企业，让那些订了酒店又没办法去且不想付退订费的人把客房转给着急找酒店的人。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;一、Uber委托高盛以可转债形式融资10亿美元&lt;/p&gt;
+&lt;p&gt;按需打车服务初创企业&lt;/p&gt;
+&lt;p&gt;已聘请高盛代理新一轮的融资，拟以近 400 亿美元的估值再融资 10 亿美元以上，所得融资将用于 Uber 的国际化扩张。此前&lt;/p&gt;
+&lt;p&gt;称在高盛的组织下，Uber CEO Travis Kalanick 曾向硅谷顶级投资人阐述了它在全球 230 多个城市的高速发展以及日后的新规划，暗示新一轮融资面向的有可能是机构投资者，但财富获悉 Uber 此次面向的银行高净值客户，有可能发行超过 10 亿美元的可转换债券，此前高盛也曾为预备 IPO 的 Facebook 管理过类似的融资。&lt;/p&gt;
+&lt;p&gt;二、NoSQL数据库“SequoiaDB”获启明创投千万美元级A轮融资&lt;/p&gt;
+&lt;p&gt;SequoiaDB&lt;/p&gt;
+&lt;p&gt;是一个新型分布式数据库，和北美的 &lt;/p&gt;
+&lt;p&gt;MongoDB&lt;/p&gt;
+&lt;p&gt;一样，属于文档类 &lt;/p&gt;
+&lt;p&gt;数据库。与 MongoDB 不同的是，SequoiaDB 针对企业级用户，加入了其他 NoSQL 公司少有的事务操作功能。SequoiaDB 目前的企业级用户，在传统企业里有包括民生银行、海南航空、电信移动等；而互联网行业里面也有像蓝汛、&lt;/p&gt;
+&lt;p&gt;这类企业。王涛创业前曾是IBM公司 DB2 北美实验室全球最高顾问小组成员之一。这家坐落在广州的公司目前拥有一个 30 多人的团队，研发工程师队伍主要来自 IBM 和华为。&lt;/p&gt;
+&lt;p&gt;三、校园分期购物平台“趣分期”获得1亿美元C轮融资&lt;/p&gt;
+&lt;p&gt;是一家主要服务于大学生信用消费的分期购物平台。模式上，在上游会对接一些电商平台的商品资源（部分实现系统直连，部分则通过代购实现），下游则铺开广泛的地面团队实施落地的运营、风控和追偿工作。趣分期的交易规模，今年 8 月底的公开数字大概是接近 1 亿元 / 每月，现在这一数字据称已刷新到 3 亿。校园分期购物在今年上半年被打开热度后，迄今已有不下 20 家团队加入战局。&lt;/p&gt;
+&lt;p&gt;四、传分期乐完成DST领投亿级美金融资&lt;/p&gt;
+&lt;p&gt;分期乐完成B轮融资，它自称估值已达数十亿，如果属实，这确刷新了行业融资记录。本轮由DST领投，贝塔斯曼、经纬中国、华兴资本、险峰华兴跟投。DST在美国投资了facebook、Twitter、Groupon等硅谷科技巨头，在中国投资了阿里巴巴、京东、小米等巨头。创始人肖文杰曾是原腾讯财付通产品总监。&lt;/p&gt;
+&lt;p&gt;四、境外旅游OTA路路行获光速安振近千万美金A1轮融资&lt;/p&gt;
+&lt;p&gt;Lulutrip 路路行&lt;/p&gt;
+&lt;p&gt;于2007年创立于硅谷，为全球华语旅行者提供北美和欧洲的目的地旅游产品，包括当地跟团、自由行、自驾游、邮轮、酒店、景区门票等。Lulutrip路路行的优势在于通过目的地采购和质检将目的地旅游资源整合，通过智能的工具帮助旅行者策划个性化行程，为旅行者扫除行前和行中的语言和文化障碍。Lulutrip 路路行表示，将利用本次的融资促进其在产品内容开拓、研发能力、大数据分析、品牌建设、市场服务等方面强化自身的核心竞争力。&lt;/p&gt;
+&lt;p&gt;五、视频即时通讯应用Glide融资2000万美元，估值1亿美元&lt;/p&gt;
+&lt;p&gt;Glide Talk Ltd.&lt;/p&gt;
+&lt;p&gt;创办只有两年，于2013年年中推出了自己的视频即时通讯应用。Glide能够让用户记录视频通讯，并且能够象文本通讯应用进行的那样发送所记录视频通讯。其服务基于一种云架构，用户发送的视频在不到一秒后就能够被接收者看到。该公司目前拥有员工约50人，这些员工均在其耶路撒冷办公室。Glide表示，其注册用户已经达到1000万。不过，据该公司部分投资者称，其活跃用户数量只有100万。&lt;/p&gt;
+&lt;p&gt;六、酒店P2P Roomer获得500万美元A轮融资&lt;/p&gt;
+&lt;p&gt;Roomer&lt;/p&gt;
+&lt;p&gt;2011年成立于以色列特拉维夫，现总部位于纽约。它是第一家为退订酒店客房提供P2P市场服务的初创企业，让那些订了酒店又没办法去且不想付退订费的人把客房转给着急找酒店的人。其过程是有房源的用户首先到Roomer登记自己不用的客房，然后由Roomer发布出去，一旦有人买下客房，Roomer就付款给该用户；另一方面，想要订房的客户可以到Roomer这里寻找房源，找到合适的之后就可以以优惠价预订，Roomer确认后订房者付完款即可入住。此轮融资由Disruptive领投，投资者BRM Group参投，此轮过后其总融资额为700万美元，融资所得将用于供应链建设以及提高品牌认知。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Tue, 02 Dec 2014 22:00:12 +0800</pubDate><guid>tag:,2014-12-02:post/2014-12-02-36ke-mei-ri-tou-rong-zi-bi-ji-12yue-2ri-an-xu-da-che-nosqlshu-ju-ku-xiao-yuan-fen-qi-gou-wu-jing-wai-lu-you-ota-shi-pin-ji-shi-tong-xun-jiu-dian-p2p/</guid><category>column</category></item><item><title>所以在腾讯眼中，音乐是一门什么样的生意？</title><link>/post/2014-12-02-suo-yi-zai-teng-xun-yan-zhong-yin-le-shi-yi-men-shi-yao-yang-de-sheng-yi/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp没有想到氪星人居然会和TVB出现在同一个发布会。今天腾讯旗下的QQ音乐在香港召开战略发布会，宣布与韩国YG Entertainment（YG娱乐）签署独家合作，代理后者在中国大陆地区的网络音乐版权。就是有钱，就是任性腾讯今年连续发力内容，的第二周，腾讯视频宣布获得HBO在中国的独家版权。上个月QQ音乐起诉网易云音乐侵犯版权。目前QQ音乐已经拥有了800万首音乐的版权，独家版权的比例也越来越高。内容行业已经是BAT“权力的游戏”：就是有钱，就是任性！顶端优势还是长尾效应黄楚雄有这个问题答案，他告诉版权不是负担“我们要做的不是把版权独家买下来，免费让用户使用”，彭迦信告诉腾讯积累的用户数据可以帮助音乐行业的上游做很多事情”。至少腾讯可以告诉你，什么样的音乐受欢迎。我们希望能够让用户在各种使用场景的切换中获得最好的音乐体验，希望QQ音乐能够成为伴随用户终生的朋友。&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;没有想到氪星人居然会和TVB出现在同一个发布会。&lt;/p&gt;
 &lt;p&gt;今天腾讯旗下的QQ音乐在香港召开战略发布会，宣布与韩国YG Entertainment（YG娱乐）签署独家合作，代理后者在中国大陆地区的网络音乐版权。根据官方的声明，腾讯将以QQ音乐为核心，打通手机QQ、QQ空间、微信、腾讯视频、腾讯旗下游戏，打造音乐、社交、电商、O2O四位一体的娱乐模式。&lt;/p&gt;
