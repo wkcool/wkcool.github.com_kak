@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 02 Dec 2014 17:00:12 +0800</lastBuildDate><item><title>23andMe的基因诊断到底靠不靠谱？英国Yes，美国Oops……</title><link>/post/2014-12-02-23andmede-ji-yin-zhen-duan-dao-di-kao-bu-kao-pu-ying-guo-yesmei-guo-oops/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp英国Yes，美国Oops……基因检测疾病属于健康检测方式中相对深入的一种，通过分子生物学对人体易感基因进行检测和分析，用户可以了解身体的状况以及可能存在的疾病隐患，后续跟踪相应的疾病预防和健康指导。但基因检测公司基因检测最典型的例子，莫过于好莱坞女神安吉丽娜朱莉得知家族有基因缺陷，罹患乳癌和卵巢癌风险较高时，毅然决定接受预防性双侧乳腺切除手术。一年前在美国被FDA（Food and Drug Administration，药监局）叫停23andMe的命运比较相似，前者23andMe100000基因组科研项目在英国走的比较顺利，目前它的检测组合（包括唾液采集容器、容器塞、透明袋等）已经获得科学伦理研究会（Research Ethics Committee）的许可，不论是通过公共医疗（NHS）或者私人医疗，都可以将英国公民纳入研究和业务范围。报道，英国方面之所以支持23andMe是因为它在某种程度上推动当地发展通过对100000个基因测序来做疾病检测、标记和预测。[本文参考以下来源：既然是医疗设备，就要受到监管……美国方面，FDA依旧没有接触对23andMe的限制，理由是疾病检测具有一定风险，万一检测失误，人们由于恐惧将来会得乳癌就做了乳房切除手术，人们的健康损失、谁来担此责任都成了不得不考量的问题。&lt;/h4&gt;&lt;/div&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 02 Dec 2014 18:00:12 +0800</lastBuildDate><item><title>Docker的对手来了：CoreOS发布新款容器引擎Rocket</title><link>/post/2014-12-02-dockerde-dui-shou-lai-liao-coreosfa-bu-xin-kuan-rong-qi-yin-qing-rocket/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbspr刚问世就红透半边天，在Github上发布了一款容器引擎竞争产品原型RocketDocker的对手来了：CoreOS发布新款容器引擎Rocket此前一直忙于为Docker提供技术支持服务，似乎准备好好沾沾Docker的光，现在看来它另有一番打算：据Rocket是一款容器引擎，和Docker类似，帮助开发者打包应用和依赖包到可移植容器中，简化搭环境等部署工作。里介绍道，Rocket和Docker不同的地方在于，Rocket没有Docker那些为企业用户提供的“友好功能”，比如云服务加速工具、集群系统等。Alex Polvi认为，由于Docker貌似已经从原本做"业界标准容器"的初心转变成打造一款以容器为中心的企业服务平台，CoreOS才决定开始推出自己的标准化产品。其中，App Container Image和Docker里的Image比较类似，包含应用必需的元素组成，如源代码和二进制文件。Rocket runtime则是依照App Container标准规格打造的，旨在将容器真正的变成一款命令行工具。最近发布的几个版本上，但这对于一个旨在适应大规模企业应用的工具来说实在很正常。在CoreOS这一官方博文发布之后，Docker的Ben Golub写了CoreOS的联合创始人兼CTO Brandon Philips目前是Dcoker管理委员会的成员，CoreOS打算继续支持Docker项目，但是当Rocket逐渐成熟之后，他们将重新评估是否继续参与贡献。[本文参考以下来源：，称“虽然我们对CoreOS那篇文章里的某些观点和修辞不太同意，但我们还是希望大家可以一起朝着为开发者和用户做出真正极致的产品的方向前进。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;r刚问世就红透半边天，&lt;/p&gt;
+&lt;p&gt;不仅拿了融资&lt;/p&gt;
+&lt;p&gt;Google等巨头的支持&lt;/p&gt;
+&lt;p&gt;CoreOS&lt;/p&gt;
+&lt;p&gt;此前一直忙于为Docker提供技术支持服务，似乎准备好好沾沾Docker的光，现在看来它另有一番打算：据&lt;/p&gt;
+&lt;p&gt;gigaom.com的消息&lt;/p&gt;
+&lt;p&gt;，昨天CoreOS&lt;/p&gt;
+&lt;p&gt;在Github上发布了一款容器引擎竞争产品原型Rocket&lt;/p&gt;
+&lt;p&gt;，意在和Docker抢抢风头。&lt;/p&gt;
+&lt;p&gt;Rocket是一款容器引擎，和Docker类似，帮助开发者打包应用和依赖包到可移植容器中，简化搭环境等部署工作。CoreOS的CEO Alex Polvi在&lt;/p&gt;
+&lt;p&gt;里介绍道，Rocket和Docker不同的地方在于，Rocket没有Docker那些为企业用户提供的“友好功能”，比如云服务加速工具、集群系统等。反过来说，Rocket想做的，是一个更纯粹的业界标准。&lt;/p&gt;
+&lt;p&gt;Alex Polvi认为，由于Docker貌似已经从原本做"业界标准容器"的初心转变成打造一款以容器为中心的企业服务平台，CoreOS才决定开始推出自己的标准化产品。&lt;/p&gt;
+&lt;p&gt;CoreOS把它的容器称为App Containers，里面包含app container image、runtime、container-discovery协议等。其中，App Container Image和Docker里的Image比较类似，包含应用必需的元素组成，如源代码和二进制文件。Rocket runtime则是依照App Container标准规格打造的，旨在将容器真正的变成一款命令行工具。&lt;/p&gt;
+&lt;p&gt;Polvi表示，Docker在安全性和可组合性方面是有根本上的缺陷的，而Rocket的设计原型就是为了弥补这些缺陷。&lt;/p&gt;
+&lt;p&gt;事实上Docker在&lt;/p&gt;
+&lt;p&gt;最近发布的几个版本&lt;/p&gt;
+&lt;p&gt;上，但这对于一个旨在适应大规模企业应用的工具来说实在很正常。&lt;/p&gt;
+&lt;p&gt;CoreOS的联合创始人兼CTO Brandon Philips目前是Dcoker管理委员会的成员，CoreOS打算继续支持Docker项目，但是当Rocket逐渐成熟之后，他们将重新评估是否继续参与贡献。&lt;/p&gt;
+&lt;p&gt;在CoreOS这一官方博文发布之后，Docker的Ben Golub写了&lt;/p&gt;
+&lt;p&gt;一篇博文回应&lt;/p&gt;
+&lt;p&gt;，称“虽然我们对CoreOS那篇文章里的某些观点和修辞不太同意，但我们还是希望大家可以一起朝着为开发者和用户做出真正极致的产品的方向前进。”&lt;/p&gt;
+&lt;p&gt;[本文参考以下来源：&lt;/p&gt;
+&lt;p&gt;gigaom.com&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Tue, 02 Dec 2014 18:00:12 +0800</pubDate><guid>tag:,2014-12-02:post/2014-12-02-dockerde-dui-shou-lai-liao-coreosfa-bu-xin-kuan-rong-qi-yin-qing-rocket/</guid><category></category></item><item><title>一起来看看，你的心脏放在医生手里是个甚么感觉？</title><link>/post/2014-12-02-yi-qi-lai-kan-kan-ni-de-xin-zang-fang-zai-yi-sheng-shou-li-shi-ge-shen-yao-gan-jue/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp大家不要怕，这里说的器官是指“全息3D投影”啦。以色列公司RealView Imaging正在研究一种用于医疗手段的全息投影技术以及界面系统。这项研究获得中国LongTec China Ventures领投的1000万美元融资。从图中我们可以看到，身体部位将通过设备以漂浮形式投影在特定位置，比如查看冠状动脉空间关系，优势在于避免对器官或者血管产生不必要的压力。医生可以利用触控笔或者双手来直接控制影像，放大缩小，标记，转圈。2013年的时候，RealView曾和飞利浦健康合作，将3D全息投影与“介入性心脏病科”结合在一起。RealView的图像数据来源于合作的健康系统，通过旋转型X射线探测仪与电脑相连，给出对应器官或者血管的清晰实时投影。RealView创始人接受采访时，3D全息投影可以大大减少医生诊疗时间以及患者检查时收到的辐射时长。[本文参考以下来源：他们计划推出商业版，希望2016年可以投放市场。blogs.wsj.comrealviewimaging.com&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;大家不要怕，这里说的器官是指“全息3D投影”啦。以色列公司&lt;/p&gt;
+&lt;p&gt;RealView Imaging&lt;/p&gt;
+&lt;p&gt;正在研究一种用于医疗手段的全息投影技术以及界面系统。这项研究获得中国LongTec China Ventures领投的1000万美元融资。&lt;/p&gt;
+&lt;p&gt;从图中我们可以看到，身体部位将通过设备以漂浮形式投影在特定位置，比如查看冠状动脉空间关系，优势在于避免对器官或者血管产生不必要的压力。&lt;/p&gt;
+&lt;p&gt;医生可以利用触控笔或者双手来直接控制影像，放大缩小，标记，转圈。2013年的时候，RealView曾和飞利浦健康合作，将3D全息投影与“介入性心脏病科”结合在一起。&lt;/p&gt;
+&lt;p&gt;RealView的图像数据来源于合作的健康系统，通过旋转型X射线探测仪与电脑相连，给出对应器官或者血管的清晰实时投影。&lt;/p&gt;
+&lt;p&gt;RealView创始人接受采访时&lt;/p&gt;
+&lt;p&gt;，3D全息投影可以大大减少医生诊疗时间以及患者检查时收到的辐射时长。他们计划推出商业版，希望2016年可以投放市场。&lt;/p&gt;
+&lt;p&gt;[本文参考以下来源：&lt;/p&gt;
+&lt;p&gt;blogs.wsj.com&lt;/p&gt;
+&lt;p&gt;realviewimaging.com&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Tue, 02 Dec 2014 18:00:11 +0800</pubDate><guid>tag:,2014-12-02:post/2014-12-02-yi-qi-lai-kan-kan-ni-de-xin-zang-fang-zai-yi-sheng-shou-li-shi-ge-shen-yao-gan-jue/</guid><category></category></item><item><title>23andMe的基因诊断到底靠不靠谱？英国Yes，美国Oops……</title><link>/post/2014-12-02-23andmede-ji-yin-zhen-duan-dao-di-kao-bu-kao-pu-ying-guo-yesmei-guo-oops/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp英国Yes，美国Oops……基因检测疾病属于健康检测方式中相对深入的一种，通过分子生物学对人体易感基因进行检测和分析，用户可以了解身体的状况以及可能存在的疾病隐患，后续跟踪相应的疾病预防和健康指导。但基因检测公司基因检测最典型的例子，莫过于好莱坞女神安吉丽娜朱莉得知家族有基因缺陷，罹患乳癌和卵巢癌风险较高时，毅然决定接受预防性双侧乳腺切除手术。一年前在美国被FDA（Food and Drug Administration，药监局）叫停23andMe的命运比较相似，前者23andMe100000基因组科研项目在英国走的比较顺利，目前它的检测组合（包括唾液采集容器、容器塞、透明袋等）已经获得科学伦理研究会（Research Ethics Committee）的许可，不论是通过公共医疗（NHS）或者私人医疗，都可以将英国公民纳入研究和业务范围。报道，英国方面之所以支持23andMe是因为它在某种程度上推动当地发展通过对100000个基因测序来做疾病检测、标记和预测。[本文参考以下来源：既然是医疗设备，就要受到监管……美国方面，FDA依旧没有接触对23andMe的限制，理由是疾病检测具有一定风险，万一检测失误，人们由于恐惧将来会得乳癌就做了乳房切除手术，人们的健康损失、谁来担此责任都成了不得不考量的问题。&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;基因检测疾病属于健康检测方式中相对深入的一种，通过分子生物学对人体易感基因进行检测和分析，用户可以了解身体的状况以及可能存在的疾病隐患，后续跟踪相应的疾病预防和健康指导。&lt;/p&gt;
 &lt;p&gt;基因检测最典型的例子，莫过于好莱坞女神安吉丽娜朱莉得知家族有基因缺陷，罹患乳癌和卵巢癌风险较高时，毅然决定接受预防性双侧乳腺切除手术。但基因检测公司&lt;/p&gt;
