@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>闻客</title><link href="/" rel="alternate"></link><link href="/feeds/36kr.atom.xml" rel="self"></link><id>/</id><updated>2014-12-13T20:00:12+08:00</updated><entry><title>Google明年年底将弃用Earth API</title><link href="/post/2014-12-13-googleming-nian-nian-di-jiang-qi-yong-earth-api/" rel="alternate"></link><updated>2014-12-13T20:00:12+08:00</updated><author><name>36kr</name></author><id>tag:,2014-12-13:post/2014-12-13-googleming-nian-nian-di-jiang-qi-yong-earth-api/</id><summary type="html">&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbspGoogle在自己的官方Google明年年底将弃用Earth API发布消息称，到2015年12月12日将停用Google Earth API。Google Earth API此举可能与Chroem和Firefox均停止对NPAPI框架的支持以及Google减少对跨平台支持有关。2008年推出的至今已有6年历史，开发者可利用这一API和JavaScript开发基于浏览器的3D地图应用。其技术基础是名为NPAPI的插件框架。但最近，出于安全的原因，Chrome和Firefox这两大浏览器均先后宣布停止对NPAPI框架的支持。再加上对跨平台支持（尤其是移动设备上）的逐步减少，使得利用Earth API来开发应用变得不再可行。不过，在2014年12月12日到2015年12月12日这段时间内，那些仍支持NPAPI的浏览器还可以支持Google Earth API。其中包括Windows平台上的Google Chrome 5.0-39.0（32位版本）、IE 7-9，以及兼容视图下的IE 10-11，以及Mac OS X10.6及以后的Google Chrome 5.0-39.0（32位版本）、Safari 3.1+、Firefox 11.0-34。目前Google尚未发布弃用Earth API后的解决方案。[消息来源：googlegeodevelopers.blogspot.com&lt;/h4&gt;&lt;/div&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>闻客</title><link href="/" rel="alternate"></link><link href="/feeds/36kr.atom.xml" rel="self"></link><id>/</id><updated>2014-12-14T10:00:14+08:00</updated><entry><title>新一代交互之战，手势识别即将胜出</title><link href="/post/2014-12-14-xin-yi-dai-jiao-hu-zhi-zhan-shou-shi-shi-bie-ji-jiang-sheng-chu/" rel="alternate"></link><updated>2014-12-14T10:00:14+08:00</updated><author><name>36kr</name></author><id>tag:,2014-12-14:post/2014-12-14-xin-yi-dai-jiao-hu-zhi-zhan-shou-shi-shi-bie-ji-jiang-sheng-chu/</id><summary type="html">&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp新一代交互之战，手势识别即将胜出虚拟现实肯定会是下一代人机交互界面，Oculus已经在显示输出这一端做出表率，表现相当不错，但是在输入端，也就是人该如何在虚拟现实中发出指令和进行操作，依然处于群雄逐鹿的状态，声控、眼动、操作杆、手势识别等各种方法，谁也不敢说自己是主导。前天Oculus收购NimbleSense，标志着第一段赛程里手势识别基本已经胜出。是一家成立于2012年的手势识别技术公司，创始人Robert2011年从MIT的计算机系博士毕业，专攻手势识别。他们的产品Nimble VR不久前登陆Kickstarter，宣传视频里就有不少虚拟现实操作的展示，现在众筹还没结束，先被Oculus看上了。其实在此之前，Oculus在内部也花了很多精力在手势识别上，毕竟这个环节对构建VR完整生态圈意义重大，必须自己来把控，但是手势识别真要做好是需要不少技术积累的，也许是自己做的太吃力，Oculus选择了收购外部优秀的创业团队一起做。相比其他方式，手势识别有这么几个优势：触摸屏已经教育了一代用户，在虚拟现实中，手势交互可能比触摸屏还要清晰直观，非常接近我们一出生就习得的交互。其他如眼控或者操作杆，都需要学习。手是人最灵巧的器官之一，除了触摸屏上的点按和滑动，手能实现的交互还有很多，在虚拟现实中，手的一部分潜能会被释放出来，更多的交互方式会涌现，比如你向空中碰一拳，就能触发某个动作。实用性强。我接触过几家做虚拟现实手势识别的公司，他们已经做出基本能用的产品了，像眼控和声控，都还处于概念期，而操作杆这类外设路线，综合性能还是不如手势识别。手势识别也有自己的不足，比如操作时间长了手臂会累，两手交叠时会有识别不准的问题，但是综合来看，现阶段可能是最适合的方法了，其他几种可能会作为辅助输入方式，比如眼动和声控，在某些专业竞技领域，操作杆也可能会成为主导输入方式。欢迎这个领域的朋友找我交流~leon#36kr.com&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;虚拟现实肯定会是下一代人机交互界面，Oculus已经在显示输出这一端做出表率，表现相当不错，但是在输入端，也就是人该如何在虚拟现实中发出指令和进行操作，依然处于群雄逐鹿的状态，声控、眼动、操作杆、手势识别等各种方法，谁也不敢说自己是主导。&lt;/p&gt;
+&lt;p&gt;前天Oculus收购NimbleSense&lt;/p&gt;
+&lt;p&gt;，标志着第一段赛程里手势识别基本已经胜出。&lt;/p&gt;
+&lt;p&gt;Nimble Sense&lt;/p&gt;
+&lt;p&gt;是一家成立于2012年的手势识别技术公司，创始人Robert2011年从MIT的计算机系博士毕业，专攻手势识别。他们的产品Nimble VR不久前登陆Kickstarter，宣传视频里就有不少虚拟现实操作的展示，现在众筹还没结束，先被Oculus看上了。其实在此之前，Oculus在内部也花了很多精力在手势识别上，毕竟这个环节对构建VR完整生态圈意义重大，必须自己来把控，但是手势识别真要做好是需要不少技术积累的，也许是自己做的太吃力，Oculus选择了收购外部优秀的创业团队一起做。&lt;/p&gt;
+&lt;p&gt;那么，Oculus为何会看好手势识别这个方向呢？相比其他方式，手势识别有这么几个优势：&lt;/p&gt;
+&lt;p&gt;学习成本低。触摸屏已经教育了一代用户，在虚拟现实中，手势交互可能比触摸屏还要清晰直观，非常接近我们一出生就习得的交互。其他如眼控或者操作杆，都需要学习。&lt;/p&gt;
+&lt;p&gt;灵活性高。手是人最灵巧的器官之一，除了触摸屏上的点按和滑动，手能实现的交互还有很多，在虚拟现实中，手的一部分潜能会被释放出来，更多的交互方式会涌现，比如你向空中碰一拳，就能触发某个动作。&lt;/p&gt;
+&lt;p&gt;实用性强。我接触过几家做虚拟现实手势识别的公司，他们已经做出基本能用的产品了，像眼控和声控，都还处于概念期，而操作杆这类外设路线，综合性能还是不如手势识别。&lt;/p&gt;
+&lt;p&gt;手势识别也有自己的不足，比如操作时间长了手臂会累，两手交叠时会有识别不准的问题，但是综合来看，现阶段可能是最适合的方法了，其他几种可能会作为辅助输入方式，比如眼动和声控，在某些专业竞技领域，操作杆也可能会成为主导输入方式。&lt;/p&gt;
+&lt;p&gt;两年前的Leap Motion让大家坐了一次过山车&lt;/p&gt;
+&lt;p&gt;，吹了个大泡泡却破了，但是没关系，对于做手势识别的公司来说，黎明就在明年了。欢迎这个领域的朋友找我交流~leon#36kr.com&lt;/p&gt;</summary><category term="column"></category></entry><entry><title>5000亿车后市场哪家强，2014年互联网汽车保养市场现状与趋势</title><link href="/post/2014-12-14-5000yi-che-hou-shi-chang-na-jia-qiang-2014nian-hu-lian-wang-qi-che-bao-yang-shi-chang-xian-zhuang-yu-qu-shi/" rel="alternate"></link><updated>2014-12-14T10:00:13+08:00</updated><author><name>36kr</name></author><id>tag:,2014-12-14:post/2014-12-14-5000yi-che-hou-shi-chang-na-jia-qiang-2014nian-hu-lian-wang-qi-che-bao-yang-shi-chang-xian-zhuang-yu-qu-shi/</id><summary type="html">&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp《中国汽车后市场2013蓝皮书》洗车市场概况上门洗车洗车O2O模式可分为二类——上门洗车、到店洗车。模式：车主线上预约，收编或招聘的技师上门提供洗车服务，车主无需到场等候。服务即品牌，以洗车切入汽车后服务，部分团队逐渐加入上门养护服务，未来可成为“移动4S店”。不足：部分物业进入有阻碍，后期上门可提供的维保服务种类受限（已有解决方案：上门取送车辆，开到合作商家进行维保）。模式：车主线上预约并付款，或购买虚拟会员卡，到线下合作商家享受洗车服务。维保市场概况：服务品牌，车主预约上门服务，平台提供上门服务或将车开至合作门店维保。其他已融资汽车后市场项目2014.10获得隆基机械A轮2593万RMB投资，O2O+B2C线下商家入驻平台，平台提供一站式养车服务。2014.5获得天使投资，通过与线下加盟店合作，为车主听过汽车配件从采购到安装的服务。2014.5获得德迅投资数百万RMB天使投资，已启动A轮融资，目前主要为车主提供寻找加油站服务。美国车后市场概况&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;《中国汽车后市场2013蓝皮书》&lt;/p&gt;
+&lt;p&gt;：2013年全国汽车保有量已达1.37亿辆，2012年汽车后市场营业额近5000亿元。每1元新车消费会带来0.65元汽车售后服务消费，其中2013年汽车维修养护市场空间约5000亿元。&lt;/p&gt;
+&lt;p&gt;提供的数字，全国共有31个城市汽车数量超过100万辆，汽车保有量前十名城市：北京537.1万辆，重庆399.8万辆，成都336.1万辆，深圳290.5万辆，上海272.3万辆，广州269.5万辆，天津258.9万辆，杭州251.7万辆，苏州245万辆，郑州230.8万辆。&lt;/p&gt;
+&lt;p&gt;国外整车制造与售后服务市场份额约1：1.5，在欧美、日本，20%利润来自整车，20%来自汽车零部件，60%来自汽车服务业。目前国内：配件占37%、制造商占43%、零售占8%、服务占12%。&lt;/p&gt;
+&lt;p&gt;洗车市场概况&lt;/p&gt;
+&lt;p&gt;常规洗车频率10~40次/年，全国日均洗车1000万次，20元/次，60%车主在固定商家购卡，市场空间约800亿元，全国各类洗车店约16万家。&lt;/p&gt;
+&lt;p&gt;2014年以来多家互联网洗车产品团队获得天使轮或A轮融资，不完全统计，微信认证洗车服务账号约70家，App Store中洗车服务App约50家，每天总计洗车订单量约3~4万单。洗车O2O模式可分为二类——上门洗车、到店洗车。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;上门洗车&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;模式：车主线上预约，收编或招聘的技师上门提供洗车服务，车主无需到场等候。服务即品牌，以洗车切入汽车后服务，部分团队逐渐加入上门养护服务，未来可成为“移动4S店”。&lt;/p&gt;
+&lt;p&gt;优势：服务质量易标准化，可获得较详细的车况数据信息，无场地租用成本利润空间可保证。&lt;/p&gt;
+&lt;p&gt;不足：部分物业进入有阻碍，后期上门可提供的维保服务种类受限（已有解决方案：上门取送车辆，开到合作商家进行维保）。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;到店洗车&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;模式：车主线上预约并付款，或购买虚拟会员卡，到线下合作商家享受洗车服务。类似团购，可成为汽车后“大众点评”。&lt;/p&gt;
+&lt;p&gt;优势：避免洗车店倒闭给车主带来的风险，可成为搜索的入口并且直接面向交易。&lt;/p&gt;
+&lt;p&gt;不足：服务无法标准化，促销活动导致到店等待时间过长，车况数据不易获取。&lt;/p&gt;
+&lt;p&gt;维保市场概况&lt;/p&gt;
+&lt;p&gt;车辆平均每年保养1~3次，全国日均保养约70万辆车，汽车美容装饰维修厂家30余万家（不包括路边店）。与4S店预约可享受工时费打折，周末保养需提前2~3日预约，在4S店等待2~3小时才能完成，价高不透明。&lt;/p&gt;
+&lt;p&gt;由于不同车型维保所需配件材料不同，4S店、连锁店、路边摊价格质量差异较大，车主商家信息不对称，催生较大市场空间。不完全统计，国内目前维保O2O产品约20款，每天共产生维保订单约2~4千单。互联网维保方向模式可分为四类——垂直搜索、垂直电商、上门维保、到店维保。&lt;/p&gt;
+&lt;p&gt;：根据车型号，行驶里程搜索4S店、连锁店、上门服务、自助服务等解决方案及价格。&lt;/p&gt;
+&lt;p&gt;：根据车型号，搜索维保所需要的配件材料，下单购买，如京东车管家等。&lt;/p&gt;
+&lt;p&gt;：服务品牌，车主预约上门服务，平台提供上门服务或将车开至合作门店维保。&lt;/p&gt;
+&lt;p&gt;：团购模式，平台聚集合作商家或实施门店加盟机制，车主线上可以优惠价格预约并到店维保。&lt;/p&gt;
+&lt;p&gt;其他已融资汽车后市场项目&lt;/p&gt;
+&lt;p&gt;2014.9.9获得联想之星、平安创新基金1500万RMB投资，为O2O模式的快修服务公司，旗下有壹手快修、钣喷快美王等品牌。&lt;/p&gt;
+&lt;p&gt;诸葛亮修车网&lt;/p&gt;
+&lt;p&gt;2014.6获得中金裕丰A轮投资，2014.11B轮融资，修车案例库为主，提供找案例、找视频、找人才等综合服务。&lt;/p&gt;
+&lt;p&gt;车易安养车网&lt;/p&gt;
+&lt;p&gt;2014.10获得隆基机械A轮2593万RMB投资，O2O+B2C线下商家入驻平台，平台提供一站式养车服务。&lt;/p&gt;
+&lt;p&gt;2014.5获得天使投资，通过与线下加盟店合作，为车主听过汽车配件从采购到安装的服务。&lt;/p&gt;
+&lt;p&gt;2014.5获得德迅投资数百万RMB天使投资，已启动A轮融资，目前主要为车主提供寻找加油站服务。&lt;/p&gt;
+&lt;p&gt;2014.10获得天使投资，O2O+B2C模式的汽车用品电商，覆盖100%车型，主张个性化用车体验。&lt;/p&gt;
+&lt;p&gt;美国车后市场概况&lt;/p&gt;
+&lt;p&gt;成熟汽车后市场中，日本以4S店为主，美国以独立连锁机构为主，欧洲介于两者之间，多数观点认为汽车后市场最后格局趋同于美国。美国汽车行业发展有百年历史，中国为10年，美国维修保养市场空间约2000亿美元，约为中国的2.6倍。&lt;/p&gt;
+&lt;p&gt;美国汽车市场售后业务中，独立汽车服务机构约占八成，以配件商主导的快修体系为主，如Napa、Autozone、Pepboys等。其中Napa以汽配件经营起家，后进入汽修业，维修店面采取加盟模式，截止2014.9在美约有65个汽配配送中心，6000家连锁配件店、10000余家维修养护加盟店。&lt;/p&gt;
+&lt;p&gt;洗车行业中，ProntoWash是美国最大传统洗车连锁品牌，提供门店及上门洗车服务，业务遍布于全球一百多个城市/地区。主要业务模式是与本地零售商、办公场所，商场等公共场所合作，在客户停放车辆的时候提供专业的洗车服务。ProntoWash为加盟店也提供了类型丰富的支持服务，包括培训，市场推广，客户关系维护等。&lt;/p&gt;
+&lt;p&gt;本文章数据来自市场公开数据和报道，以及部分第三方授权，作者Iris（从事互联网早期投资与市场研究，微信 835661681）、李诣（微信 155351325），近期将继续对互联网汽车更多细分方向做深入研究，期待与汽车行业人士及创业团队交流探讨。&lt;/p&gt;
+&lt;p&gt;[本文来自读者的投稿，不代表&lt;/p&gt;</summary><category term="column"></category></entry><entry><title>Google明年年底将弃用Earth API</title><link href="/post/2014-12-13-googleming-nian-nian-di-jiang-qi-yong-earth-api/" rel="alternate"></link><updated>2014-12-13T20:00:12+08:00</updated><author><name>36kr</name></author><id>tag:,2014-12-13:post/2014-12-13-googleming-nian-nian-di-jiang-qi-yong-earth-api/</id><summary type="html">&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbspGoogle在自己的官方Google明年年底将弃用Earth API发布消息称，到2015年12月12日将停用Google Earth API。Google Earth API此举可能与Chroem和Firefox均停止对NPAPI框架的支持以及Google减少对跨平台支持有关。2008年推出的至今已有6年历史，开发者可利用这一API和JavaScript开发基于浏览器的3D地图应用。其技术基础是名为NPAPI的插件框架。但最近，出于安全的原因，Chrome和Firefox这两大浏览器均先后宣布停止对NPAPI框架的支持。再加上对跨平台支持（尤其是移动设备上）的逐步减少，使得利用Earth API来开发应用变得不再可行。不过，在2014年12月12日到2015年12月12日这段时间内，那些仍支持NPAPI的浏览器还可以支持Google Earth API。其中包括Windows平台上的Google Chrome 5.0-39.0（32位版本）、IE 7-9，以及兼容视图下的IE 10-11，以及Mac OS X10.6及以后的Google Chrome 5.0-39.0（32位版本）、Safari 3.1+、Firefox 11.0-34。目前Google尚未发布弃用Earth API后的解决方案。[消息来源：googlegeodevelopers.blogspot.com&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;Google在自己的官方&lt;/p&gt;
 &lt;p&gt;发布消息称，到2015年12月12日将停用Google Earth API。此举可能与Chroem和Firefox均停止对NPAPI框架的支持以及Google减少对跨平台支持有关。&lt;/p&gt;
