@@ -90,6 +90,27 @@
       <div class="row">
         <div class="span9" id="content">
         <div class="article">
+                <h1><a href="/post/2014-12-11-idevicestui-homekitruan-jian-kai-fa-bao-zhu-li-ping-guo-zhi-neng-jia-ju-da-zhan/">iDevices推HomeKit软件开发包，助力苹果智能家居大战</a></h1>
+                <div class="well small"><footer class="post-info">
+<span class="label">日期&nbsp</span>
+<abbr class="published" title="2014-12-11T11:00:14">
+        <i class="icon-calendar"></i>2014年12月11日 11:00
+</abbr>
+<span class="label"> 由 </span>
+<a href="/author/36kr.html"><!--i class="icon-user"></i-->&nbsp36kr 编辑</a>
+<span class="label">新闻类别</span>
+<a href="/category/hu-lian-wang.html"><i class="icon-folder-open"></i>&nbsp互联网</a>
+
+
+<span class="label">标签</span>
+	<a href="/tag/.html"><i class="icon-tag"></i></a>
+</footer><!-- /.post-info --></div>
+                <div class="summary"><p>WWDC 2014大会上发布了智能家居平台iDevices推HomeKit软件开发包，助力苹果智能家居大战HomeKitiDevices公司在苹果陆续与多家第三方家电厂商展开合作的同时，希望能够帮助苹果加速HomeKit进入主流市场的过程。9to5mac.com网站记者的采访iDevices去年就已在HomeKit开发上砸下超过1000万美元，并且一路与苹果保持亲密的合作关系以开发自己的HomeKit SDK（软件开发工具包）。时认为，HomeKit SDK意在加速HomeKit标准配套硬件的发展。iDevices CEO Chris Allen把iDevices平台称作是一座桥梁，桥的两头分别是苹果现有的低层次SDK和符合市场要求的最终产品。第三方家电厂商对如何生产出符合苹果HomeKit严格要求的硬件产品还存在很多认知空白，iDevices推出的服务希望能降低第三方公司的开发成本。[本文参考以下来源：上推出支持HomeKit的硬件产品。HomeKit SDK目前正在寻求客户</p>
+                        <a class="btn primary xsmall" href="/post/2014-12-11-idevicestui-homekitruan-jian-kai-fa-bao-zhu-li-ping-guo-zhi-neng-jia-ju-da-zhan/">更多 ...</a>
+                </div>
+        </div>
+        <hr />
+        <div class="article">
                 <h1><a href="/post/2014-12-11-jin-tian-qi-wang-diao-apt-get-ba-ubuntu-yao-rang-fu-wu-qi-xi-tong-you-pi-mei-ota-de-geng-xin-ti-yan/">今天起忘掉 apt-get 吧，Ubuntu 要让服务器系统有媲美 OTA 的更新体验</a></h1>
                 <div class="well small"><footer class="post-info">
 <span class="label">日期&nbsp</span>
@@ -383,27 +404,6 @@
                 </div>
         </div>
         <hr />
-        <div class="article">
-                <h1><a href="/post/2014-12-10-app-anniexin-zeng-dui-windowsyi-ji-windows-phoneshang-dian-de-shu-ju-fen-xi-gong-neng/">App Annie新增对Windows以及Windows Phone商店的数据分析功能</a></h1>
-                <div class="well small"><footer class="post-info">
-<span class="label">日期&nbsp</span>
-<abbr class="published" title="2014-12-10T10:00:12">
-        <i class="icon-calendar"></i>2014年12月10日 10:00
-</abbr>
-<span class="label"> 由 </span>
-<a href="/author/36kr.html"><!--i class="icon-user"></i-->&nbsp36kr 编辑</a>
-<span class="label">新闻类别</span>
-<a href="/category/hu-lian-wang.html"><i class="icon-folder-open"></i>&nbsp互联网</a>
-
-
-<span class="label">标签</span>
-	<a href="/tag/.html"><i class="icon-tag"></i></a>
-</footer><!-- /.post-info --></div>
-                <div class="summary"><p>App AnnieApp Annie新增对Windows以及Windows Phone商店的数据分析功能上宣布，App Annie会正式支持对Windows以及Windows Phone应用商店的数据分析。Windows Store 和Windows Phone Store的开发者们将可以通过App Annie的Analytics功能，了解自家应用的各项数据表现，同时还可以通过Store Stats功能，来洞悉应用商店的一些动态趋势变化。值得一提的是，除了新增对Windows Store 和Windows Phone Store的数据分析支持以外，App Annie还同时发布了一项新功能：Team Sharing。[本文参考以下来源：注：我们曾多次报道过App Annie，想更了解他们的童鞋可以这项功能允许应用开发者通过建立群组来将应用数据同步给团队内部需要知悉应用数据的人员，这样一来每个团队成员都可以同时知晓数据的更新情况，而不用再每周依靠手工提取分析报告了，可以将团队内部同步数据信息的效率提升到最高。winbeta.orgblog.appannie.com</p>
-                        <a class="btn primary xsmall" href="/post/2014-12-10-app-anniexin-zeng-dui-windowsyi-ji-windows-phoneshang-dian-de-shu-ju-fen-xi-gong-neng/">更多 ...</a>
-                </div>
-        </div>
-        <hr />
 
         <div class="pagination">
         <ul>
@@ -434,474 +434,9 @@
 </li>
 
 <li class="nav-header"><h4><i class="icon-tags icon-large"></i>标签</h4></li>
-<li class="tag-4">
-    <a href="/tag/tui-te.html">
-        <i class="icon-tag icon-large"></i>推特
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/chuang-ye-gong-si.html">
-        <i class="icon-tag icon-large"></i>创业公司
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ma-yi-jin-fu.html">
-        <i class="icon-tag icon-large"></i>蚂蚁金服
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/suan-fa.html">
-        <i class="icon-tag icon-large"></i>算法
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/yi-ao-zhong-guo.html">
-        <i class="icon-tag icon-large"></i>易遨中国
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ji-suan-ji.html">
-        <i class="icon-tag icon-large"></i>计算机
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/kai-fa.html">
-        <i class="icon-tag icon-large"></i>开发
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/jian-liao.html">
-        <i class="icon-tag icon-large"></i>简聊
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/rong-zi.html">
-        <i class="icon-tag icon-large"></i>融资
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/zhou-bo-tong-zhao-pin.html">
-        <i class="icon-tag icon-large"></i>周伯通招聘
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/zhang-xiao-long.html">
-        <i class="icon-tag icon-large"></i>张小龙
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ding-xiang-yuan.html">
-        <i class="icon-tag icon-large"></i>丁香院
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xiao-mi-ke-ji.html">
-        <i class="icon-tag icon-large"></i>小米科技
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/dian-fu-xing-chuang-xin.html">
-        <i class="icon-tag icon-large"></i>颠覆性创新
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/da-shu-ju.html">
-        <i class="icon-tag icon-large"></i>大数据
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/huo-dong.html">
-        <i class="icon-tag icon-large"></i>活动
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ya-zhou-shou-fu.html">
-        <i class="icon-tag icon-large"></i>亚洲首富
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/ku-pai.html">
-        <i class="icon-tag icon-large"></i>酷派
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/yu-ce.html">
-        <i class="icon-tag icon-large"></i>预测
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/gao-tong.html">
-        <i class="icon-tag icon-large"></i>高通
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/che-yi-pai.html">
-        <i class="icon-tag icon-large"></i>车易拍
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ke-chuan-dai-she-bei.html">
-        <i class="icon-tag icon-large"></i>可穿戴设备
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/mei-han.html">
-        <i class="icon-tag icon-large"></i>美瀚
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/tang-yan.html">
-        <i class="icon-tag icon-large"></i>唐岩
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xiang-jie.html">
-        <i class="icon-tag icon-large"></i>享借
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/zhou-hong-yi.html">
-        <i class="icon-tag icon-large"></i>周鸿祎
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/kuai-fang-song-yao.html">
-        <i class="icon-tag icon-large"></i>快方送药
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/meng-meng-da.html">
-        <i class="icon-tag icon-large"></i>萌萌搭
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/jie-ru.html">
-        <i class="icon-tag icon-large"></i>接入
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/sou-yao-song.html">
-        <i class="icon-tag icon-large"></i>搜药送
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/ping-guo.html">
-        <i class="icon-tag icon-large"></i>苹果
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xu-ni-xian-shi.html">
-        <i class="icon-tag icon-large"></i>虚拟现实
-    </a>
-</li>
-<li class="tag-1">
-    <a href="/tag/cn-news.html">
-        <i class="icon-tag icon-large"></i>cn-news
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xiao-yuan-xing.html">
-        <i class="icon-tag icon-large"></i>校园行
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ju-mei-you-pin.html">
-        <i class="icon-tag icon-large"></i>聚美优品
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/dian-zi-mo-shui.html">
-        <i class="icon-tag icon-large"></i>电子墨水
-    </a>
-</li>
-<li class="tag-2">
-    <a href="/tag/xiao-mi.html">
-        <i class="icon-tag icon-large"></i>小米
-    </a>
-</li>
-<li class="tag-2">
-    <a href="/tag/zhi-neng-ying-jian.html">
-        <i class="icon-tag icon-large"></i>智能硬件
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/bei-yi-wang-quan.html">
-        <i class="icon-tag icon-large"></i>被遗忘权
-    </a>
-</li>
-<li class="tag-1">
-    <a href="/tag/.html">
-        <i class="icon-tag icon-large"></i>
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/bi-lei.html">
-        <i class="icon-tag icon-large"></i>毕磊
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xin-yong.html">
-        <i class="icon-tag icon-large"></i>信用
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/zhi-neng-shou-ji.html">
-        <i class="icon-tag icon-large"></i>智能手机
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ke-kong-jian.html">
-        <i class="icon-tag icon-large"></i>氪空间
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/gao-sheng.html">
-        <i class="icon-tag icon-large"></i>高盛
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/duan-dao-duan-shi-chang.html">
-        <i class="icon-tag icon-large"></i>端到端市场
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/ke-xing-kai-liao.html">
-        <i class="icon-tag icon-large"></i>氪星开聊
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/chen-ou.html">
-        <i class="icon-tag icon-large"></i>陈欧
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/wei-xin.html">
-        <i class="icon-tag icon-large"></i>微信
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/jian-cai.html">
-        <i class="icon-tag icon-large"></i>建材
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xiao-mi-jing-shui-qi.html">
-        <i class="icon-tag icon-large"></i>小米净水器
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/a-li-ba-ba.html">
-        <i class="icon-tag icon-large"></i>阿里巴巴
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/ren-gong-zhi-neng.html">
-        <i class="icon-tag icon-large"></i>人工智能
-    </a>
-</li>
 <li class="tag-3">
     <a href="/tag/mo-mo.html">
         <i class="icon-tag icon-large"></i>陌陌
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/luo-bin-wei-lian-mu-si.html">
-        <i class="icon-tag icon-large"></i>罗宾▪威廉姆斯
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/lei-jun.html">
-        <i class="icon-tag icon-large"></i>雷军
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/hun-li.html">
-        <i class="icon-tag icon-large"></i>婚礼
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/dafeige.html">
-        <i class="icon-tag icon-large"></i>dafeige
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/zhao-xian.html">
-        <i class="icon-tag icon-large"></i>朝鲜
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/fen-lei-yan-gao.html">
-        <i class="icon-tag icon-large"></i>分类广告
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/teng-xun.html">
-        <i class="icon-tag icon-large"></i>腾讯
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/dong-qiu-di.html">
-        <i class="icon-tag icon-large"></i>懂球帝
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/mai-meng-ke-ji.html">
-        <i class="icon-tag icon-large"></i>麦檬科技
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ji-qi-zhi-neng.html">
-        <i class="icon-tag icon-large"></i>机器智能
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/san-xing.html">
-        <i class="icon-tag icon-large"></i>三星
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/ji-qi-xue-xi.html">
-        <i class="icon-tag icon-large"></i>机器学习
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/xiao-mi-shou-huan.html">
-        <i class="icon-tag icon-large"></i>小米手环
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/ma-yun.html">
-        <i class="icon-tag icon-large"></i>马云
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/xiao-mi-kong-qi-jing-hua-qi.html">
-        <i class="icon-tag icon-large"></i>小米空气净化器
-    </a>
-</li>
-<li class="tag-1">
-    <a href="/tag/chuang-ye.html">
-        <i class="icon-tag icon-large"></i>创业
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/hai-er.html">
-        <i class="icon-tag icon-large"></i>海尔
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/tu-niu.html">
-        <i class="icon-tag icon-large"></i>途牛
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/wang-dai.html">
-        <i class="icon-tag icon-large"></i>网贷
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/pi-fu-dian-chuan-dao.html">
-        <i class="icon-tag icon-large"></i>皮肤电传导
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/hui-pu.html">
-        <i class="icon-tag icon-large"></i>惠普
-    </a>
-</li>
-<li class="tag-2">
-    <a href="/tag/yi-dong.html">
-        <i class="icon-tag icon-large"></i>移动
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/zi-dong-hua.html">
-        <i class="icon-tag icon-large"></i>自动化
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/ping-ban-dian-nao.html">
-        <i class="icon-tag icon-large"></i>平板电脑
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xi-cheng.html">
-        <i class="icon-tag icon-large"></i>携程
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xiong-yi-fang.html">
-        <i class="icon-tag icon-large"></i>熊逸放
-    </a>
-</li>
-<li class="tag-1">
-    <a href="/tag/column.html">
-        <i class="icon-tag icon-large"></i>column
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/wei-ruan.html">
-        <i class="icon-tag icon-large"></i>微软
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/chun-yu-yi-sheng.html">
-        <i class="icon-tag icon-large"></i>春雨医生
-    </a>
-</li>
-<li class="tag-2">
-    <a href="/tag/digest.html">
-        <i class="icon-tag icon-large"></i>digest
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/fang-zhu-er.html">
-        <i class="icon-tag icon-large"></i>房主儿
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/zhou-bo-tong.html">
-        <i class="icon-tag icon-large"></i>周伯通
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/bai-du-tie-ba.html">
-        <i class="icon-tag icon-large"></i>百度贴吧
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/hong-tai-ji-jin.html">
-        <i class="icon-tag icon-large"></i>洪泰基金
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/chang-ba-ktv.html">
-        <i class="icon-tag icon-large"></i>唱吧KTV
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/wo-shi-chuang-ye-zhe.html">
-        <i class="icon-tag icon-large"></i>我是创业者
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/qu-na-er.html">
-        <i class="icon-tag icon-large"></i>去哪儿
-    </a>
-</li>
-<li class="tag-4">
-    <a href="/tag/xi-bao.html">
-        <i class="icon-tag icon-large"></i>猎豹
-    </a>
-</li>
-<li class="tag-3">
-    <a href="/tag/krtv.html">
-        <i class="icon-tag icon-large"></i>krtv
-    </a>
-</li>
-<li class="tag-2">
-    <a href="/tag/zhi-neng-she-bei.html">
-        <i class="icon-tag icon-large"></i>智能设备
     </a>
 </li>
 <li class="tag-3">
@@ -910,13 +445,63 @@
     </a>
 </li>
 <li class="tag-4">
-    <a href="/tag/baidu.html">
-        <i class="icon-tag icon-large"></i>baidu
+    <a href="/tag/mai-meng-ke-ji.html">
+        <i class="icon-tag icon-large"></i>麦檬科技
     </a>
 </li>
 <li class="tag-4">
-    <a href="/tag/ce-shi.html">
-        <i class="icon-tag icon-large"></i>测试
+    <a href="/tag/xi-bao.html">
+        <i class="icon-tag icon-large"></i>猎豹
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/xiao-mi-shou-huan.html">
+        <i class="icon-tag icon-large"></i>小米手环
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/lei-jun.html">
+        <i class="icon-tag icon-large"></i>雷军
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ding-xiang-yuan.html">
+        <i class="icon-tag icon-large"></i>丁香院
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/che-yi-pai.html">
+        <i class="icon-tag icon-large"></i>车易拍
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/san-xing.html">
+        <i class="icon-tag icon-large"></i>三星
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ya-zhou-shou-fu.html">
+        <i class="icon-tag icon-large"></i>亚洲首富
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ji-suan-ji.html">
+        <i class="icon-tag icon-large"></i>计算机
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-mi-ke-ji.html">
+        <i class="icon-tag icon-large"></i>小米科技
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hun-li.html">
+        <i class="icon-tag icon-large"></i>婚礼
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zi-dong-hua.html">
+        <i class="icon-tag icon-large"></i>自动化
     </a>
 </li>
 <li class="tag-4">
@@ -925,13 +510,428 @@
     </a>
 </li>
 <li class="tag-4">
+    <a href="/tag/wang-dai.html">
+        <i class="icon-tag icon-large"></i>网贷
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/kai-fa.html">
+        <i class="icon-tag icon-large"></i>开发
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/xiao-mi.html">
+        <i class="icon-tag icon-large"></i>小米
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/a-li-ba-ba.html">
+        <i class="icon-tag icon-large"></i>阿里巴巴
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/kuai-fang-song-yao.html">
+        <i class="icon-tag icon-large"></i>快方送药
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/teng-xun.html">
+        <i class="icon-tag icon-large"></i>腾讯
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/yi-dong.html">
+        <i class="icon-tag icon-large"></i>移动
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chang-ba-ktv.html">
+        <i class="icon-tag icon-large"></i>唱吧KTV
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/bei-yi-wang-quan.html">
+        <i class="icon-tag icon-large"></i>被遗忘权
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/gao-sheng.html">
+        <i class="icon-tag icon-large"></i>高盛
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/.html">
+        <i class="icon-tag icon-large"></i>
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/pi-fu-dian-chuan-dao.html">
+        <i class="icon-tag icon-large"></i>皮肤电传导
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ke-chuan-dai-she-bei.html">
+        <i class="icon-tag icon-large"></i>可穿戴设备
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ping-guo.html">
+        <i class="icon-tag icon-large"></i>苹果
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dong-qiu-di.html">
+        <i class="icon-tag icon-large"></i>懂球帝
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhou-bo-tong-zhao-pin.html">
+        <i class="icon-tag icon-large"></i>周伯通招聘
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/zhou-hong-yi.html">
+        <i class="icon-tag icon-large"></i>周鸿祎
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/mei-han.html">
+        <i class="icon-tag icon-large"></i>美瀚
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/krtv.html">
+        <i class="icon-tag icon-large"></i>krtv
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chen-ou.html">
+        <i class="icon-tag icon-large"></i>陈欧
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-mi-jing-shui-qi.html">
+        <i class="icon-tag icon-large"></i>小米净水器
+    </a>
+</li>
+<li class="tag-4">
     <a href="/tag/ren-wen.html">
         <i class="icon-tag icon-large"></i>人文
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ce-shi.html">
+        <i class="icon-tag icon-large"></i>测试
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/fang-zhu-er.html">
+        <i class="icon-tag icon-large"></i>房主儿
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/wei-xin.html">
+        <i class="icon-tag icon-large"></i>微信
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/cn-news.html">
+        <i class="icon-tag icon-large"></i>cn-news
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/meng-meng-da.html">
+        <i class="icon-tag icon-large"></i>萌萌搭
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/lan-tu.html">
+        <i class="icon-tag icon-large"></i>蓝图
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/zhi-neng-ying-jian.html">
+        <i class="icon-tag icon-large"></i>智能硬件
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/suan-fa.html">
+        <i class="icon-tag icon-large"></i>算法
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ren-gong-zhi-neng.html">
+        <i class="icon-tag icon-large"></i>人工智能
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/yi-ao-zhong-guo.html">
+        <i class="icon-tag icon-large"></i>易遨中国
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-yuan-xing.html">
+        <i class="icon-tag icon-large"></i>校园行
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhou-bo-tong.html">
+        <i class="icon-tag icon-large"></i>周伯通
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/qu-na-er.html">
+        <i class="icon-tag icon-large"></i>去哪儿
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/tui-te.html">
+        <i class="icon-tag icon-large"></i>推特
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dian-fu-xing-chuang-xin.html">
+        <i class="icon-tag icon-large"></i>颠覆性创新
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiong-yi-fang.html">
+        <i class="icon-tag icon-large"></i>熊逸放
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/jie-ru.html">
+        <i class="icon-tag icon-large"></i>接入
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/tu-niu.html">
+        <i class="icon-tag icon-large"></i>途牛
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hai-er.html">
+        <i class="icon-tag icon-large"></i>海尔
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/bai-du-tie-ba.html">
+        <i class="icon-tag icon-large"></i>百度贴吧
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ping-ban-dian-nao.html">
+        <i class="icon-tag icon-large"></i>平板电脑
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xin-yong.html">
+        <i class="icon-tag icon-large"></i>信用
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ji-qi-xue-xi.html">
+        <i class="icon-tag icon-large"></i>机器学习
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/yu-ce.html">
+        <i class="icon-tag icon-large"></i>预测
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hong-tai-ji-jin.html">
+        <i class="icon-tag icon-large"></i>洪泰基金
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/luo-bin-wei-lian-mu-si.html">
+        <i class="icon-tag icon-large"></i>罗宾▪威廉姆斯
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/da-shu-ju.html">
+        <i class="icon-tag icon-large"></i>大数据
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhao-xian.html">
+        <i class="icon-tag icon-large"></i>朝鲜
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chun-yu-yi-sheng.html">
+        <i class="icon-tag icon-large"></i>春雨医生
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/jian-cai.html">
+        <i class="icon-tag icon-large"></i>建材
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/wei-ruan.html">
+        <i class="icon-tag icon-large"></i>微软
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/bi-lei.html">
+        <i class="icon-tag icon-large"></i>毕磊
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xu-ni-xian-shi.html">
+        <i class="icon-tag icon-large"></i>虚拟现实
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ju-mei-you-pin.html">
+        <i class="icon-tag icon-large"></i>聚美优品
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ke-kong-jian.html">
+        <i class="icon-tag icon-large"></i>氪空间
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/digest.html">
+        <i class="icon-tag icon-large"></i>digest
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhang-xiao-long.html">
+        <i class="icon-tag icon-large"></i>张小龙
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/xiao-mi-kong-qi-jing-hua-qi.html">
+        <i class="icon-tag icon-large"></i>小米空气净化器
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/jian-liao.html">
+        <i class="icon-tag icon-large"></i>简聊
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/baidu.html">
+        <i class="icon-tag icon-large"></i>baidu
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiang-jie.html">
+        <i class="icon-tag icon-large"></i>享借
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/tang-yan.html">
+        <i class="icon-tag icon-large"></i>唐岩
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/duan-dao-duan-shi-chang.html">
+        <i class="icon-tag icon-large"></i>端到端市场
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/zhi-neng-she-bei.html">
+        <i class="icon-tag icon-large"></i>智能设备
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ku-pai.html">
+        <i class="icon-tag icon-large"></i>酷派
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ke-xing-kai-liao.html">
+        <i class="icon-tag icon-large"></i>氪星开聊
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/gao-tong.html">
+        <i class="icon-tag icon-large"></i>高通
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/chuang-ye.html">
+        <i class="icon-tag icon-large"></i>创业
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/sou-yao-song.html">
+        <i class="icon-tag icon-large"></i>搜药送
     </a>
 </li>
 <li class="tag-3">
     <a href="/tag/shu-ju-zhong-xin.html">
         <i class="icon-tag icon-large"></i>数据中心
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/fen-lei-yan-gao.html">
+        <i class="icon-tag icon-large"></i>分类广告
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xi-cheng.html">
+        <i class="icon-tag icon-large"></i>携程
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ma-yun.html">
+        <i class="icon-tag icon-large"></i>马云
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/rong-zi.html">
+        <i class="icon-tag icon-large"></i>融资
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ma-yi-jin-fu.html">
+        <i class="icon-tag icon-large"></i>蚂蚁金服
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ji-qi-zhi-neng.html">
+        <i class="icon-tag icon-large"></i>机器智能
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/huo-dong.html">
+        <i class="icon-tag icon-large"></i>活动
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/column.html">
+        <i class="icon-tag icon-large"></i>column
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chuang-ye-gong-si.html">
+        <i class="icon-tag icon-large"></i>创业公司
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/zhi-neng-shou-ji.html">
+        <i class="icon-tag icon-large"></i>智能手机
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/wo-shi-chuang-ye-zhe.html">
+        <i class="icon-tag icon-large"></i>我是创业者
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hui-pu.html">
+        <i class="icon-tag icon-large"></i>惠普
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dafeige.html">
+        <i class="icon-tag icon-large"></i>dafeige
     </a>
 </li>
 
