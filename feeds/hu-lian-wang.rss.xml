@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 18 Dec 2014 17:00:15 +0800</lastBuildDate><item><title>消费者技术的第四纪会是什么？</title><link>/post/2014-12-18-xiao-fei-zhe-ji-zhu-de-di-si-ji-hui-shi-shi-yao/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp注：此文是Ben Thompson的工作/生产力方面的杀手应用沟通方面的杀手应用杀手应用，分别包括：微软从一开始就把持了PC的操作系统；而搜索就是互联网在工作/生产力方面的杀手应用：在Google上几乎可以马上找到任何问题的答案，Google也就成为了这个领域的王者。与PC纪相反，苹果是市场先行者。移动工作/生产力领域更有趣的是看看谁会在通信和工作/生产力领域涌现出来。这就是移动工作/生产力领域的杀手应用和占主导地位的公司是谁将取决于他们如何架设线上和线下的桥梁的原因。移动通信领域此前我已有论断，消息应用就是移动通信领域的杀手应用：其他的工作/生产力应用可能还会继续涌现，摄像头应该是一个很有趣的东西，但可能这个领域的主导公司已经诞生了。家庭电话推动了实时沟通以及web被动式的沟通，而消息应用则让持续沟通成为可能。消息应用的大战最终可能会有多个赢家。&lt;/h4&gt;&lt;/div&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/hu-lian-wang.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 18 Dec 2014 18:00:12 +0800</lastBuildDate><item><title>没有“Follow"，没有“流”，一场“瘟疫”需要4个传染源</title><link>/post/2014-12-18-mei-you-followmei-you-liu-yi-chang-wen-yi-xu-yao-4ge-chuan-ran-yuan/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp没有“Follow"，没有“流”，一场“瘟疫”需要4个传染源匿名社区想做得有意思不容易，一不小心就可能变成Secret那样的负能量聚集地。这款产品或许有这种潜力。Plague最奇葩的地方在于他的信息传播机制产品的名字叫“温疫”，我们就把用户发的贴叫“病毒”吧。，每个用户发布的信息仅会被离他最近的4人个看到，这4个结点决定了你发的东西会不会继续传递给他们身边的人，交互很简单，向上滑，即是向外传递，反之，弃掉。点击ID可以进去用户的Profile—其实没有跟本人有关的任何实质性信息，最重要的是代表用户传播能力的因为没有Follow机制—每次用户仅能看到一个“病毒”，这意味着，用户不会预设自己的发的有趣的东西、或问题汇入一条信息流，而是有看来这里有大V哦。如果你不想自己的东西被离你最近的4个不知道是会shen me gui的家伙毙掉，你得有意思。这说明产品看的还是内容，希望有表现力的东西流动起来，同时让泛味的东西淹没掉，但不是被“流”淹掉，而是无声无息得死掉。Plague还给每个病毒的感染力生成了可视化的图表，包括反对和赞同的比例，在地图上的足迹，以及一周的热度变化曲线，收到的评论数。我看到的多是世界范围的地图足迹，不知道用户密度大的地方是什么情况。说穿了，Secret的溃败，Whisper和Yik Yak的坚挺都在于有否好的内容，前者太负能量，后两者会讲好听的故事。&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;匿名社区想做得有意思不容易，一不小心就可能变成Secret那样的负能量聚集地。毕竟，匿名是一种自由的状态，理应释放出更多普通用户的创造力。&lt;/p&gt;
+&lt;p&gt;Plague&lt;/p&gt;
+&lt;p&gt;这款产品或许有这种潜力。&lt;/p&gt;
+&lt;p&gt;产品的名字叫“温疫”，我们就把用户发的贴叫“病毒”吧。&lt;/p&gt;
+&lt;p&gt;Plague最奇葩的地方在于他的信息传播机制&lt;/p&gt;
+&lt;p&gt;，每个用户发布的信息仅会被离他最近的4人个看到，这4个结点决定了你发的东西会不会继续传递给他们身边的人，交互很简单，向上滑，即是向外传递，反之，弃掉。Plague支持图、文、视频。&lt;/p&gt;
+&lt;p&gt;其实，并非严格意义上的匿名，因为用户有ID和头像，但是首屏对此做了弱化处理，仅在左下角有一个字符。点击ID可以进去用户的Profile—其实没有跟本人有关的任何实质性信息，最重要的是代表用户传播能力的&lt;/p&gt;
+&lt;p&gt;Infection Index&lt;/p&gt;
+&lt;p&gt;（传染指数），随着用户Infection Index的上升，就能触达更多的附近结点。不过，传播周期以7天为限。&lt;/p&gt;
+&lt;p&gt;看来这里有大V哦。不过这里的大V显然只能凭个人表达能力说话，&lt;/p&gt;
+&lt;p&gt;因为没有Follow机制&lt;/p&gt;
+&lt;p&gt;且它没有所谓的“流”&lt;/p&gt;
+&lt;p&gt;—每次用户仅能看到一个“病毒”，这意味着，用户不会预设自己的发的有趣的东西、或问题汇入一条信息流，而是有&lt;/p&gt;
+&lt;p&gt;的。如果你不想自己的东西被离你最近的4个不知道是会shen me gui的家伙毙掉，你得有意思。&lt;/p&gt;
+&lt;p&gt;这说明产品看的还是内容，希望有表现力的东西流动起来，同时让泛味的东西淹没掉，但不是被“流”淹掉，而是无声无息得死掉。Plague还给每个病毒的感染力生成了可视化的图表，包括反对和赞同的比例，在地图上的足迹，以及一周的热度变化曲线，收到的评论数。&lt;/p&gt;
+&lt;p&gt;我看到的多是世界范围的地图足迹，不知道用户密度大的地方是什么情况。看到图表有没有觉得很像市场调研，是的，这对富有营销创意的品牌而言是好消息。&lt;/p&gt;
+&lt;p&gt;说穿了，Secret的溃败，Whisper和Yik Yak的坚挺都在于有否好的内容，前者太负能量，后两者会讲好听的故事。我觉得，Plague有潜力。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Thu, 18 Dec 2014 18:00:12 +0800</pubDate><guid>tag:,2014-12-18:post/2014-12-18-mei-you-followmei-you-liu-yi-chang-wen-yi-xu-yao-4ge-chuan-ran-yuan/</guid><category></category></item><item><title>消费者技术的第四纪会是什么？</title><link>/post/2014-12-18-xiao-fei-zhe-ji-zhu-de-di-si-ji-hui-shi-shi-yao/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp注：此文是Ben Thompson的工作/生产力方面的杀手应用沟通方面的杀手应用杀手应用，分别包括：微软从一开始就把持了PC的操作系统；而搜索就是互联网在工作/生产力方面的杀手应用：在Google上几乎可以马上找到任何问题的答案，Google也就成为了这个领域的王者。与PC纪相反，苹果是市场先行者。移动工作/生产力领域更有趣的是看看谁会在通信和工作/生产力领域涌现出来。这就是移动工作/生产力领域的杀手应用和占主导地位的公司是谁将取决于他们如何架设线上和线下的桥梁的原因。移动通信领域此前我已有论断，消息应用就是移动通信领域的杀手应用：其他的工作/生产力应用可能还会继续涌现，摄像头应该是一个很有趣的东西，但可能这个领域的主导公司已经诞生了。家庭电话推动了实时沟通以及web被动式的沟通，而消息应用则让持续沟通成为可能。消息应用的大战最终可能会有多个赢家。&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;注：此文是Ben Thompson的&lt;/p&gt;
 &lt;p&gt;，他从核心技术、操作系统以及典型杀手应用的变迁分析了消费者技术经历过的三个时代以及各大巨头的表现，并以史为鉴预测下一个时代的可能核心技术。&lt;/p&gt;
