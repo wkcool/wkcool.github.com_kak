@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/36kr.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 20 Dec 2014 13:00:15 +0800</lastBuildDate><item><title>零售商希望你上厕所的时间也在“买买买”</title><link>/post/2014-12-20-ling-shou-shang-xi-wang-ni-shang-ce-suo-de-shi-jian-ye-zai-mai-mai-mai/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp零售商希望你上厕所的时间也在“买买买”厕所已经是为数不多的没有被营销活动渗透的地方了。最近，零售商们逐渐认识到了人们如厕时间的价值。11月英国卫生纸品牌Charmin的一项问卷调查中，三分之一的回答者表示他们会利用上厕所的时间处理邮件、阅读或者购物。15%的回答者坦言，节假日期间会利用如厕时间在手机或者平板上购物。Bloomberg的消息零售商们敏锐地捕捉到了这一商机。消费者可以用亚马逊的App扫码购买，获得折扣。这种促销方式仅仅是冰山一角，相比接下来要发生的要温和得多。可以挖掘你的智能手机中的传感器数据，由此判断某一时刻你是坐着、站着、行走中还是睡眠的状态。利用这一工具，零售商们就可以选择合适的时间向你发送商品消息。或许很快，这些算法就能精细到可以判断你如厕的时间。考虑到如厕的时间段往往很短（当然特殊情况例外），零售商们正在优化适合这种场景的购物体验。其中包括优化支付方式，尽量做到一键购物。看到这里，亚马逊收“一键购物”专利费会不会收到手软。&lt;/h4&gt;&lt;/div&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>闻客</title><link>/</link><description></description><atom:link href="/feeds/36kr.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 20 Dec 2014 16:00:14 +0800</lastBuildDate><item><title>Datafox为投资人筛选创业公司提供了优化解决方案</title><link>/post/2014-12-20-datafoxwei-tou-zi-ren-shai-xuan-chuang-ye-gong-si-ti-gong-liao-you-hua-jie-jue-fang-an/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbspDatafox是一家位于硅谷的创业公司，它提供了一个针对非上市公司的实时更新数据库，试图为投资人解决这么几个问题：Datafox为投资人筛选创业公司提供了优化解决方案从哪收集创业公司数据；Datafox的基本功能是Datafox Quality Score™目前Datafox的实时数据来源有三种。现有的数据库Datafox自己进行的数据分析最后一种是Datafox的数据相比传统数据库来说的特点就是自动且近乎实时。风投一致看重的是这个给投资人搜索创业公司提供的全新的解决方案。所以我觉得他们需要的是Datafox就是个具有目前Datafox允许用户报告有异议的数据目前我们使用了&lt;/h4&gt;&lt;/div&gt;
+
+&lt;p&gt;Datafox是一家位于硅谷的创业公司，它提供了一个针对非上市公司的实时更新数据库，试图为投资人解决这么几个问题：&lt;/p&gt;
+&lt;p&gt;从哪收集创业公司数据；到底收集哪些数据；收集来的数据如何确保很新很完整。&lt;/p&gt;
+&lt;p&gt;联合创始人Bastiaan和Mike Dorsey都是金融出身。为什么转到科技领域来创业？“因为我自己之前在高盛ESSG的三年，一直有一个很头疼的事，就是如何搜索中小私企的资料。” Bastiaan告诉&lt;/p&gt;
+&lt;p&gt;：“实际工作中很多同事都很苦恼，我觉得非常需要去解决这个问题。”&lt;/p&gt;
+&lt;p&gt;Datafox的基本功能是&lt;/p&gt;
+&lt;p&gt;自动化地从两个渠道获取有用数据&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;搜寻网络信息，通过语义分析等算法找出有价值的部分。&lt;/span&gt;
+
+&lt;span class="err"&gt;跟&lt;/span&gt;&lt;span class="n"&gt;Crunchbase&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;AngelList&lt;/span&gt;&lt;span class="err"&gt;和&lt;/span&gt;&lt;span class="n"&gt;LinkedIn&lt;/span&gt;&lt;span class="err"&gt;的合作，直接从这三个拥有大量创业公司资料的数据库获取数据。用户要做的是搜索感兴趣的公司，点击关注，或者跟踪别人分享的行业列表，比如&lt;/span&gt;&lt;span class="n"&gt;Social&lt;/span&gt; &lt;span class="n"&gt;Networking&lt;/span&gt;&lt;span class="err"&gt;和&lt;/span&gt;&lt;span class="n"&gt;Robotics&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;在Datafox的首页，会看到创业圈的新事件，内容是Datafox根据用户关注的公司定制化的。同时也可以选择事件的类型，包括融资、收购、IPO、估值、收入、人才和新闻报道等。&lt;/p&gt;
+&lt;p&gt;在公司搜索界面，可以通过各种条件来筛选结果，比如运营情况、行业、地点、投资者、员工数量、财务状况、融资阶段等。公司界面除了传统的信息外，还有关联LinkedIn选项以方便与该公司建立直接的联系。&lt;/p&gt;
+&lt;p&gt;除了基本的数据获取外，&lt;/p&gt;
+&lt;p&gt;有两个很值得一提的plus：&lt;/p&gt;
+&lt;p&gt;Datafox Quality Score™&lt;/p&gt;
+&lt;p&gt;，这是由一套&lt;/p&gt;
+&lt;p&gt;由专有算法实时评估创业公司然后得出的一个综合分数，细分有企业成长分数和HR人力分数。&lt;/p&gt;
+&lt;p&gt;目前他们使用20个以上的参数，包括招聘速度和方向、留存率、创始人背景、董事会质量、投资人质量、融资数量、用户评价、社交网络活跃度，还有其他网络分析指标等。&lt;/p&gt;
+&lt;p&gt;。如果你想知道&lt;/p&gt;
+&lt;p&gt;某个公司在市场上跟其他类似公司在相似度、收入、融资或员工数量方面的关系&lt;/p&gt;
+&lt;p&gt;，可以点一下Visualize按钮，Datafox就会给你呈现一张简单直观的网络图。在这张图表里，你可以通过连接了解这个公司在行业里的位置、潜在投资对象、谁是未来的合作伙伴、谁是潜在的威胁、谁可能收购这家公司等。&lt;/p&gt;
+&lt;p&gt;目前Datafox的实时数据来源有三种。一是&lt;/p&gt;
+&lt;p&gt;，比如新闻、RSS feed、YouTube等。另一种是&lt;/p&gt;
+&lt;p&gt;现有的数据库&lt;/p&gt;
+&lt;p&gt;，比如跟CrunchBase、AngelList、LinkedIn等。最后一种是&lt;/p&gt;
+&lt;p&gt;Datafox自己进行的数据分析&lt;/p&gt;
+&lt;p&gt;，比如像之前提到的网络图等。Datafox的数据相比传统数据库来说的特点就是自动且近乎实时。&lt;/p&gt;
+&lt;p&gt;Datafox的目标用户除了投资者，还有分析师、销售等。这收费模式是按月订阅型：初级用户每月$49，100家公司、3个领域；专业用户每月$399，没有限制；企业级的会提供API以方便跟其他应用的整合或定制开发。&lt;/p&gt;
+&lt;p&gt;和湾区这边不少创业公司一样，由四名联合创始人构成的核心团队是清一色的Stanford背景。&lt;/p&gt;
+&lt;p&gt;Bastiaan Janmat在高盛伦敦做过三年的投资相关工作，Mike Dorsey有MBA和工程双硕士学位。产品上线后拿到Google Venture 180万美金的种子轮，随后startX、innoSpring等硅谷本土孵化器在内17方共同投资了其第二轮种子基金。风投一致看重的是这个给投资人搜索创业公司提供的全新的解决方案。&lt;/p&gt;
+&lt;p&gt;以下是Bastiaan接受&lt;/p&gt;
+&lt;p&gt;采访的内容，我感觉他本人和这个产品本身的气质都像一只敏捷但很真诚的狐狸，整理如下：&lt;/p&gt;
+&lt;p&gt;我很头疼不能够有一个很高效的途径来搜索非上市公司，其中包括很多的创业公司。和很多华尔街的朋友交流，他们也告诉我说，&lt;/p&gt;
+&lt;p&gt;有一个明显的事实就是越来越多的公司选择了私有和暂时不上市&lt;/p&gt;
+&lt;p&gt;。查找这些公司的资料是困难的，我们需要手动寻找那些信息然后放进表格里，很麻烦，所以我一直在寻找可以自动化的办法。&lt;/p&gt;
+&lt;p&gt;Datafox是我们几个人的一个业余项目。当展示给一些金融界人士和硅谷的风投后他们都表示Datafox可以帮助他们节省大量的时间，于是我们很快就拿到了Google Venture的种子轮。&lt;/p&gt;
+&lt;p&gt;过去10-15年间，分析师、销售和风投的工作由于网络的原因而变得简单了，但同时网络也带来了信息噪音。所以我觉得他们需要的是&lt;/p&gt;
+&lt;p&gt;一个在数据之上的工具来收集整理并过滤呈现出关键的信息&lt;/p&gt;
+&lt;p&gt;。Datafox就是个具有&lt;/p&gt;
+&lt;p&gt;数据聚合、清理、特征提取、语义处理&lt;/p&gt;
+&lt;p&gt;等功能的工具，告诉用户他感兴趣的公司做了哪些他可能会更感兴趣的事情。&lt;/p&gt;
+&lt;p&gt;我们希望通过采集到的&lt;/p&gt;
+&lt;p&gt;一个能够准确评估公司运营情况的公式，并以分数的形式表现出来&lt;/p&gt;
+&lt;p&gt;有点像市场指数或者Google的PageRank&lt;/p&gt;
+&lt;p&gt;，这个分数标志着一家公司在某个行业里的相对水平。&lt;/p&gt;
+&lt;p&gt;从投资者的角度来思考，我们尝试覆盖一个公司的所有对潜在投资者有用的数据，像团队、财务、客户、合作关系、媒体覆盖等。我们同时也从销售和业务发展的角度去考虑，因为他们能够发现一个公司是否有强劲的潜力。Datafox数据的涵盖范围很广，类比CrunchBase主要关注融资数字，我们会提供一个完整的画面。&lt;/p&gt;
+&lt;p&gt;老实说，我们目前也还存在一些问题。比如，法律并没有规定私企必须上报并公开公司信息，所以Datafox&lt;/p&gt;
+&lt;p&gt;一时不能保证信息的绝对完整性&lt;/p&gt;
+&lt;p&gt;。我们能做的就是收集整合散乱在网络各处的公开信息，并经过了自己的算法后呈现给用户。&lt;/p&gt;
+&lt;p&gt;目前Datafox允许用户报告有异议的数据&lt;/p&gt;
+&lt;p&gt;未来打算引入类似信心指数等&lt;/p&gt;
+&lt;p&gt;更加有效的方法来帮助用户决策。&lt;/p&gt;
+&lt;p&gt;目前我们使用了&lt;/p&gt;
+&lt;p&gt;20多个特征&lt;/p&gt;
+&lt;p&gt;留存率、创始人背景、董事会、投资人、融资情况、用户评价等&lt;/p&gt;
+&lt;p&gt;分数范围是0到1250&lt;/p&gt;
+&lt;p&gt;，越高越好，说明越接近我们定义的“成功”的公司。&lt;/p&gt;
+&lt;p&gt;原始数据之上的分析层&lt;/p&gt;
+&lt;p&gt;。以后我们打算允许用户添加其他的数据源到他们的Datafox账户，然后我们会帮助分析和可视化那些数据。形式可能包括分析工具和研究报告。&lt;/p&gt;
+&lt;p&gt;当还在高盛的时候，我就非常羡慕做企业的人。他们拥有丰厚的管理和运营经验，能做出伟大的产品和服务。这也是我来到Stanford读MBA的原因之一。我在高盛做的是投资相关的工作，现在做的是服务于投资者的产品。我觉得之前的背景对我做这件事情有很大的帮助。&lt;/p&gt;
+&lt;p&gt;创业的时候你会感觉拥有整个公司，负有很重的责任，大家团结一致达成一个目标的时候会获得很强烈的情感冲击。&lt;/p&gt;
+&lt;p&gt;我当然打算以后扩展到中国去，不过我们首先得解决语言问题，对中文做语义处理对我们的技术团队是个挑战。另外就是中国复杂的商业环境，我们还需要多了解一下。未来我们肯定是希望能够进行国际化扩张的。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">36kr</dc:creator><pubDate>Sat, 20 Dec 2014 16:00:14 +0800</pubDate><guid>tag:,2014-12-20:post/2014-12-20-datafoxwei-tou-zi-ren-shai-xuan-chuang-ye-gong-si-ti-gong-liao-you-hua-jie-jue-fang-an/</guid><category></category></item><item><title>零售商希望你上厕所的时间也在“买买买”</title><link>/post/2014-12-20-ling-shou-shang-xi-wang-ni-shang-ce-suo-de-shi-jian-ye-zai-mai-mai-mai/</link><description>&lt;div class="msummary"&gt;&amp;nbsp&amp;nbsp&lt;h4&gt;摘要&amp;nbsp:&amp;nbsp零售商希望你上厕所的时间也在“买买买”厕所已经是为数不多的没有被营销活动渗透的地方了。最近，零售商们逐渐认识到了人们如厕时间的价值。11月英国卫生纸品牌Charmin的一项问卷调查中，三分之一的回答者表示他们会利用上厕所的时间处理邮件、阅读或者购物。15%的回答者坦言，节假日期间会利用如厕时间在手机或者平板上购物。Bloomberg的消息零售商们敏锐地捕捉到了这一商机。消费者可以用亚马逊的App扫码购买，获得折扣。这种促销方式仅仅是冰山一角，相比接下来要发生的要温和得多。可以挖掘你的智能手机中的传感器数据，由此判断某一时刻你是坐着、站着、行走中还是睡眠的状态。利用这一工具，零售商们就可以选择合适的时间向你发送商品消息。或许很快，这些算法就能精细到可以判断你如厕的时间。考虑到如厕的时间段往往很短（当然特殊情况例外），零售商们正在优化适合这种场景的购物体验。其中包括优化支付方式，尽量做到一键购物。看到这里，亚马逊收“一键购物”专利费会不会收到手软。&lt;/h4&gt;&lt;/div&gt;
 
 &lt;p&gt;厕所已经是为数不多的没有被营销活动渗透的地方了。最近，零售商们逐渐认识到了人们如厕时间的价值。马桶商务（Commode commerce）的时代到了。&lt;/p&gt;
 &lt;p&gt;11月英国卫生纸品牌Charmin的一项问卷调查中，三分之一的回答者表示他们会利用上厕所的时间处理邮件、阅读或者购物。而月初PayPal完成的一项消费者行为调查也得出了相似的结论。15%的回答者坦言，节假日期间会利用如厕时间在手机或者平板上购物。&lt;/p&gt;
