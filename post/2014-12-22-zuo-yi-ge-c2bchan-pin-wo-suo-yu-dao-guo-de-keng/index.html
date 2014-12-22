@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>做一个C2B产品，我所遇到过的坑</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="wenkr">
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css" />
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+      .tag-1 {
+        font-size: 13pt;
+      }
+      .tag-2 {
+        font-size: 10pt;
+      }
+      .tag-2 {
+        font-size: 8pt;
+      }
+      .tag-4 {
+        font-size: 6pt;
+     }
+     .msummary {
+       color: #566F89;
+       background: #C5DFF8;
+       text-shadow: 2px 1px 0 #E4F1FF;
+    }
+    </style>
+    <link href="/theme/css/bootstrap-responsive.min.css" rel="stylesheet">
+        <link href="/theme/css/font-awesome.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="/theme/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/theme/images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/theme/images/apple-touch-icon-114x114.png">
+
+    <link href="/" type="application/atom+xml" rel="alternate" title="闻客 ATOM Feed" />
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/index.html">闻客 </a>
+          <div class="nav-collapse">
+            <ul class="nav">
+                          <li class="divider-vertical"></li>
+                  <li class="active">
+                    <a href="/category/hu-lian-wang.html">
+						<i class="icon-folder-open icon-large"></i>互联网
+					</a>
+                  </li>
+
+                          <ul class="nav pull-right">
+                                <li><a href="/archives.html"><i class="icon-th-list"></i>历史</a></li>
+                          </ul>
+
+            </ul>
+            <!--<p class="navbar-text pull-right">Logged in as <a href="#">username</a></p>-->
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="span9" id="content">
+<section id="content">
+        <article>
+                <header>
+                        <h1>
+                                <a href=""
+                                        rel="bookmark"
+                                        title="Permalink to 做一个C2B产品，我所遇到过的坑">
+                                        做一个C2B产品，我所遇到过的坑
+                                </a>
+                        </h1>
+                </header>
+                <div class="entry-content">
+                <div class="well">
+<footer class="post-info">
+<span class="label">日期&nbsp</span>
+<abbr class="published" title="2014-12-22T22:00:13">
+        <i class="icon-calendar"></i>2014年12月22日 22:00
+</abbr>
+<span class="label"> 由 </span>
+<a href="/author/36kr.html"><!--i class="icon-user"></i-->&nbsp36kr 编辑</a>
+<span class="label">新闻类别</span>
+<a href="/category/hu-lian-wang.html"><i class="icon-folder-open"></i>&nbsp互联网</a>
+
+
+<span class="label">标签</span>
+	<a href="/tag/column.html"><i class="icon-tag"></i>column</a>
+</footer><!-- /.post-info -->                </div>
+                <div class="msummary">&nbsp&nbsp<h4>摘要&nbsp:&nbsp我们做的商业模式来自于最早的一个搬家的case。于是就诞生了我们最原始的商业模式：＂买家提出需求，让商家来竞标＂。我们的想法是，这个模式可以降低商家获取客户的成本（因为是买家自己提出需求）。最早我们设想的是买家可以针对任何事情提出需求。于是我们去掉了所有的服务类需求，只允许买家提出对产品的需求。这个改动以后不久，我们又发现一个问题。第1版我们的模式是：逆向竞拍模式：买家提出需求，商家投标抢单。买家针对某一类的产品提个需求，然后商家投标这样。这个模式里的核心流程有三部分：“买家组团”、“商家竞拍”和“买卖双方的对接系统”。第一步让买家指定组团和投标的时间。组团方案一：按照时间来组团和投标，这个时间期限用户可以调节。组团方案二：按照最少人数/时间来组团，按照最低bid商家数/时间来投标。改为买家提出需求后，其他买家随时可以加团，商家也随时可以投标，只要有最低数量商家投标，则整个团立即结束。那就是把给产品在Shipping的选择的时候，可以按照类型选邮寄或者自取。除了组团，还有投标流程，还有后台买家和卖家的对接系统，以及网站的定位、模式还有设计，都在不断的演变。</h4></div>
+
+<p>我们做的商业模式来自于最早的一个搬家的case。从学校打酱油毕业，需要从纽约的一个地方，搬家到另外一个地方。他找了5，6个搬家公司，每家公司却给出了很不同的报价。为什么搬同样的东西，每家公司的报价都不一样呢？为什么作为一个买家，一个花钱的人，却需要苦逼的去货比三家，否则就没法价廉物美呢？</p>
+<p>于是就诞生了我们最原始的商业模式：＂买家提出需求，让商家来竞标＂。</p>
+<p>服务的标准化是第一个问题</p>
+<p>我们的想法是，这个模式可以降低商家获取客户的成本（因为是买家自己提出需求）。同时，让商家竞标可以保证买家自动获得一个不错的deal。 </p>
+<p>最早我们设想的是买家可以针对任何事情提出需求。实际开始建设网站的时候发现，服务类的需求牵扯到质量问题，难以标准化。而对于一个非标准化的产品，商家是很难估算其成本的，因此就没法对其投标。于是我们去掉了所有的服务类需求，只允许买家提出对产品的需求。</p>
+<p>这个改动以后不久，我们又发现一个问题。产品也分新旧，对于旧产品，虽然需求量还挺大的，但是商家还是没法鉴定其新旧程度，因此就没法投标。如果强制推旧产品，势必最后需要买家和卖家多次确认和来回沟通，最后只会做成另外一个Craiglist。</p>
+<p>到这个时候，我们基本定下来只做全新的产品，至少短期内，完全放弃服务类和旧产品，专注全新的产品。</p>
+<p>在用户和商家之间找到平衡</p>
+<p>第1版我们的模式是：逆向竞拍模式：买家提出需求，商家投标抢单。这版设计非常简单粗糙，就是一个买家提需求的界面，类似Google那样。买家针对某一类的产品提个需求，然后商家投标这样。</p>
+<p>这版还没有完全做出来就给毙掉了。 改版原因：一个人的需求太小，商家根本懒得搭理。单人的需求太小，一群人的需求就有可能大到商家没法拒绝了吧。所以第二版变成了众筹购物模式：大家一起提需求，商家投标抢单。</p>
+<p>这个模式里的核心流程有三部分：“买家组团”、“商家竞拍”和“买卖双方的对接系统”。用户的行为也会分成三步：</p>
+<div class="highlight"><pre><span class="err">第一步让买家指定组团和投标的时间。</span>
+
+<span class="err">第二步让买家输入</span><span class="n">shipping</span><span class="err">地址。</span>
+
+<span class="err">第三步让买家输入支付方式。</span>
+</pre></div>
+
+
+<p>其中主要的问题集中在第一步，也就是设定组团条件这步。具体做的时候我们尝试了2个方案：</p>
+<p>组团方案一：按照时间来组团和投标，这个时间期限用户可以调节。这版使用的时候发现， dealer的报价是基于买家人数 。而对于买家，获得一个好deal的前提是有多少商家抢单，所以把组团人数和bid数条件加进去就很有必要。。</p>
+<p>组团方案二：按照最少人数/时间来组团，按照最低bid商家数/时间来投标。</p>
+<p>用户永远比你想象的更懒</p>
+<p>第二版系统巨复杂，异步竞拍，随意允许用户更改各种组团条件，商家还有一个inventory系统，有个自动投标触发条件，实时库存等。可惜，因为系统太复杂了，连自己人都需要培训了才会用，不要说普通用户了。得，再改版吧。</p>
+<p>第三版开发的时候，吸取了前面2个版本的反馈，尝试大幅简化买家组团和商家投标的流程，完全去掉了组团期和投标期的概念。改为买家提出需求后，其他买家随时可以加团，商家也随时可以投标，只要有最低数量商家投标，则整个团立即结束。这样一改，开团的时候只需要设置最低标数就好，就是这个样子。</p>
+<p>这个版本刚用一段时间，就发现找商家投标是如此的难。经常只有一个商家投标，所以第一步设置最低bid数量就成了摆设，那不如干脆去掉。</p>
+<p>不过，第二步shipping那里还是要求用户选做一个选择，就是邮寄或者自取， 根据用户的选择，系统会自动判断是扣全款还是只扣押金。大多数用户到这一步都是直接用默认选项（著名的default preference理论），根本不去改。这样就出现了好几次，一个电话卡20来块钱的东西，用户却选择了自取的支付方式，结果系统只扣到一美刀的押金。</p>
+<p>为了解决这个问题，我们干脆把tax和shipping的值全部强制规定成0。同时，去掉让用户选择邮寄还是自取，改为系统根据产品类型自动计算扣款的金额。这样一改，开团的流程基本和传统的购物流程一致了，易用性有了很大的提高。</p>
+<p>和第三方平台的对接让人抓狂</p>
+<p>预付款模式就是买家加团的时候必须用信用卡作为抵押，一旦成团则自动扣款。这个模块刚用了几天，银行就把我们的支付关口给停了，说是防止fruad。这才收了几千块钱而已。 这个信用卡网关申请的时候容易，辛辛苦苦写一堆对接的代码，说关就给关了。</p>
+<p>没法收款了，临时改为收paypal，甚至是线下收支票。不过才走了几个团，问题就又来了。因为不要求买家预付款了，有的买家随意加团然后随意反悔。还有北京的朋友加美国的团。商家更恼火，按照10个人投的标，最后实际买的只有，3，5个人，商家说这样没法玩。</p>
+<p>经过无数努力，写了N封email，打了N个电话后，Braintree的Sales终于搞懂了我们的商业模式，批准了我们的信用卡端口。于是重新开通加团预付款，顺便也有一个小改进。那就是把给产品在Shipping的选择的时候，可以按照类型选邮寄或者自取。对于邮寄类产品我们预扣全款，对于自取类产品，我们只需要交个押金。总之，折腾来折腾去，美工，开发，销售所有的流程全都重新弄。</p>
+<p>前面说了这么多，仅仅是我们组团的流程的一个变化过程。除了组团，还有投标流程，还有后台买家和卖家的对接系统，以及网站的定位、模式还有设计，都在不断的演变。</p>
+<p>团队里大家都是第一次创业，典型的有理想却经验不足，所以走的弯路稍微有点多。做产品的最开始，一个天使投资人就告诉我，一个好的产品是一个简单易用的产品。当时，作为一个长期果粉的我，以为对这句话理解透彻了，因为simple and easy一直也是我认同的理念。可是实际一圈做下来，经历了一个从简单到复杂，再从复杂回归简单的循环后才发现，这句话really mean it。给大家分享出来，以此为鉴吧。</p>
+<p>本文作者是buckete创始人alex，微信号alexli819，邮箱alex.li@buckete.com</p>
+<p>[本文来自读者的投稿，不代表</p>
+                </div><!-- /.entry-content -->
+        </article>
+</section>
+        </div><!--/span-->
+
+        <div class="span3 well sidebar-nav" id="sidebar">
+<ul class="nav nav-list">
+
+<li class="nav-header"><h4><i class="icon-folder-close icon-large"></i>新闻类别</h4></li>
+<li>
+<a href="/category/hu-lian-wang.html">
+    <i class="icon-folder-open icon-large"></i>互联网
+</a>
+</li>
+
+<li class="nav-header"><h4><i class="icon-tags icon-large"></i>标签</h4></li>
+<li class="tag-4">
+    <a href="/tag/gao-tong.html">
+        <i class="icon-tag icon-large"></i>高通
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xin-yong.html">
+        <i class="icon-tag icon-large"></i>信用
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-fei-zhe-ji-zhu.html">
+        <i class="icon-tag icon-large"></i>消费者技术
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zi-dong-hua.html">
+        <i class="icon-tag icon-large"></i>自动化
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ji-suan-ji.html">
+        <i class="icon-tag icon-large"></i>计算机
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/duan-dao-duan-shi-chang.html">
+        <i class="icon-tag icon-large"></i>端到端市场
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/.html">
+        <i class="icon-tag icon-large"></i>
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hong-tai-ji-jin.html">
+        <i class="icon-tag icon-large"></i>洪泰基金
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/yi-ao-zhong-guo.html">
+        <i class="icon-tag icon-large"></i>易遨中国
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/jian-liao.html">
+        <i class="icon-tag icon-large"></i>简聊
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/yi-dong.html">
+        <i class="icon-tag icon-large"></i>移动
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hei-mei.html">
+        <i class="icon-tag icon-large"></i>黑莓
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/kuai-fang-song-yao.html">
+        <i class="icon-tag icon-large"></i>快方送药
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/krtv.html">
+        <i class="icon-tag icon-large"></i>krtv
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/che-yi-pai.html">
+        <i class="icon-tag icon-large"></i>车易拍
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/chuang-ye.html">
+        <i class="icon-tag icon-large"></i>创业
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hu-lian-wang.html">
+        <i class="icon-tag icon-large"></i>互联网
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/wo-shi-chuang-ye-zhe.html">
+        <i class="icon-tag icon-large"></i>我是创业者
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/baidu.html">
+        <i class="icon-tag icon-large"></i>baidu
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/su-di.html">
+        <i class="icon-tag icon-large"></i>苏菂
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/luo-bin-wei-lian-mu-si.html">
+        <i class="icon-tag icon-large"></i>罗宾▪威廉姆斯
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wa-lou-er.html">
+        <i class="icon-tag icon-large"></i>挖漏儿
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/digest.html">
+        <i class="icon-tag icon-large"></i>digest
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dong-ruan-ji-tuan.html">
+        <i class="icon-tag icon-large"></i>东软集团
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-dan-kong-qi-jing-hua-qi.html">
+        <i class="icon-tag icon-large"></i>小蛋空气净化器
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wei-she-qu.html">
+        <i class="icon-tag icon-large"></i>微社区
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/zhou-hong-yi.html">
+        <i class="icon-tag icon-large"></i>周鸿祎
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ping-guo.html">
+        <i class="icon-tag icon-large"></i>苹果
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/cn-news.html">
+        <i class="icon-tag icon-large"></i>cn-news
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chuang-ye-gong-si.html">
+        <i class="icon-tag icon-large"></i>创业公司
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ku-pai.html">
+        <i class="icon-tag icon-large"></i>酷派
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/li-xiang-chen.html">
+        <i class="icon-tag icon-large"></i>厉向晨
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/lan-tu.html">
+        <i class="icon-tag icon-large"></i>蓝图
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiong-yi-fang.html">
+        <i class="icon-tag icon-large"></i>熊逸放
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/shu-ju-zhong-xin.html">
+        <i class="icon-tag icon-large"></i>数据中心
+    </a>
+</li>
+<li class="tag-1">
+    <a href="/tag/column.html">
+        <i class="icon-tag icon-large"></i>column
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ju-mei-you-pin.html">
+        <i class="icon-tag icon-large"></i>聚美优品
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ma-yun.html">
+        <i class="icon-tag icon-large"></i>马云
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-yuan-xing.html">
+        <i class="icon-tag icon-large"></i>校园行
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wei-xin-gong-zhong-ping-tai.html">
+        <i class="icon-tag icon-large"></i>微信公众平台
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhang-xiao-long.html">
+        <i class="icon-tag icon-large"></i>张小龙
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xiao-mi-shou-ji.html">
+        <i class="icon-tag icon-large"></i>小米手机
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/bdnews.html">
+        <i class="icon-tag icon-large"></i>bdnews
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/yun-fu-wu.html">
+        <i class="icon-tag icon-large"></i>云服务
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/san-xing.html">
+        <i class="icon-tag icon-large"></i>三星
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/mai-meng-ke-ji.html">
+        <i class="icon-tag icon-large"></i>麦檬科技
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wang-luo.html">
+        <i class="icon-tag icon-large"></i>网络
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ji-zhe.html">
+        <i class="icon-tag icon-large"></i>记者
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/mei-han.html">
+        <i class="icon-tag icon-large"></i>美瀚
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhou-bo-tong-zhao-pin.html">
+        <i class="icon-tag icon-large"></i>周伯通招聘
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/wang-dai.html">
+        <i class="icon-tag icon-large"></i>网贷
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/zhi-neng-she-bei.html">
+        <i class="icon-tag icon-large"></i>智能设备
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/yu-ce.html">
+        <i class="icon-tag icon-large"></i>预测
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ce-shi.html">
+        <i class="icon-tag icon-large"></i>测试
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/a-li-ba-ba.html">
+        <i class="icon-tag icon-large"></i>阿里巴巴
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/zhong-guo-yi-dong.html">
+        <i class="icon-tag icon-large"></i>中国移动
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/yu-yin-shi-bie.html">
+        <i class="icon-tag icon-large"></i>语音识别
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ping-ban-dian-nao.html">
+        <i class="icon-tag icon-large"></i>平板电脑
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xin-lang.html">
+        <i class="icon-tag icon-large"></i>新浪
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/zhi-neng-shou-ji.html">
+        <i class="icon-tag icon-large"></i>智能手机
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/mo-mo.html">
+        <i class="icon-tag icon-large"></i>陌陌
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/wei-xin.html">
+        <i class="icon-tag icon-large"></i>微信
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/shu-ju-gong-han.html">
+        <i class="icon-tag icon-large"></i>数据工厂
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/te-si-la.html">
+        <i class="icon-tag icon-large"></i>特斯拉
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ke-xing-kai-liao.html">
+        <i class="icon-tag icon-large"></i>氪星开聊
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/wei-ruan.html">
+        <i class="icon-tag icon-large"></i>微软
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xi-bao.html">
+        <i class="icon-tag icon-large"></i>猎豹
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dan-bu-yi-kong-zhi.html">
+        <i class="icon-tag icon-large"></i>但不易控制
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/xiao-mi.html">
+        <i class="icon-tag icon-large"></i>小米
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/de-qin.html">
+        <i class="icon-tag icon-large"></i>德勤
+    </a>
+</li>
+<li class="tag-2">
+    <a href="/tag/zhi-neng-ying-jian.html">
+        <i class="icon-tag icon-large"></i>智能硬件
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/tang-yan.html">
+        <i class="icon-tag icon-large"></i>唐岩
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chang-ba-ktv.html">
+        <i class="icon-tag icon-large"></i>唱吧KTV
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/xi-cheng.html">
+        <i class="icon-tag icon-large"></i>携程
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/hun-li.html">
+        <i class="icon-tag icon-large"></i>婚礼
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chui-zi-shou-ji.html">
+        <i class="icon-tag icon-large"></i>锤子手机
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/teng-xun.html">
+        <i class="icon-tag icon-large"></i>腾讯
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/shen-du-xue-xi.html">
+        <i class="icon-tag icon-large"></i>深度学习
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/meng-meng-da.html">
+        <i class="icon-tag icon-large"></i>萌萌搭
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ruan-jian.html">
+        <i class="icon-tag icon-large"></i>软件
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chui-zi-ke-ji.html">
+        <i class="icon-tag icon-large"></i>锤子科技
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/tu-niu.html">
+        <i class="icon-tag icon-large"></i>途牛
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ji-qi-xue-xi.html">
+        <i class="icon-tag icon-large"></i>机器学习
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/zhao-xian.html">
+        <i class="icon-tag icon-large"></i>朝鲜
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/xiao-mi-shou-huan.html">
+        <i class="icon-tag icon-large"></i>小米手环
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ren-gong-zhi-neng.html">
+        <i class="icon-tag icon-large"></i>人工智能
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/lei-jun.html">
+        <i class="icon-tag icon-large"></i>雷军
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/ma-yi-jin-fu.html">
+        <i class="icon-tag icon-large"></i>蚂蚁金服
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/xiao-mi-kong-qi-jing-hua-qi.html">
+        <i class="icon-tag icon-large"></i>小米空气净化器
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/nong-ye.html">
+        <i class="icon-tag icon-large"></i>农业
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/dafeige.html">
+        <i class="icon-tag icon-large"></i>dafeige
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/chun-yu-yi-sheng.html">
+        <i class="icon-tag icon-large"></i>春雨医生
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/mei-de.html">
+        <i class="icon-tag icon-large"></i>美的
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/ke-chuan-dai.html">
+        <i class="icon-tag icon-large"></i>可穿戴
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/bai-du-tie-ba.html">
+        <i class="icon-tag icon-large"></i>百度贴吧
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/bai-du.html">
+        <i class="icon-tag icon-large"></i>百度
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/qu-na-er.html">
+        <i class="icon-tag icon-large"></i>去哪儿
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/kai-fa.html">
+        <i class="icon-tag icon-large"></i>开发
+    </a>
+</li>
+<li class="tag-4">
+    <a href="/tag/sou-yao-song.html">
+        <i class="icon-tag icon-large"></i>搜药送
+    </a>
+</li>
+<li class="tag-3">
+    <a href="/tag/da-shu-ju.html">
+        <i class="icon-tag icon-large"></i>大数据
+    </a>
+</li>
+
+<!-- 
+</ul>        </div> 
+        <!--/.well -->
+
+      </div><!--/row-->
+
+      <hr>
+    </div><!--/.fluid-container-->
+
+
+
+    <script src="/theme/js/jquery-1.7.2.min.js"></script>
+    <script src="/theme/js/bootstrap.min.js"></script>
+  </body>
+</html>
